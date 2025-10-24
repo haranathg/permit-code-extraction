@@ -1,0 +1,4112 @@
+9.3 Use codes
+9.3.1 Dwelling house code
+9.3.1.1 Application
+1.
+This code applies to undertaking development for dwelling houses(22) on varying lot types located in the General
+residential zone, the Emerging community zone - Transition precinct if on a developed lot, the Redcliffe Kippa-Ring
+local plan - Interim residential precinct, and the Caboolture West local plan - Urban living precinct (Next generation
+neighbourhood sub-precinct) if on a developed lot, if:
+a.
+the development has been categorised as either accepted development subject to requirements or
+assessable development - code assessment, and this code is identified as applicable to that development
+in the assessment benchmarks for assessable development and requirements for accepted development
+column of a table of assessment (Part 5);
+b.
+the development has been categorised as assessable development - impact assessment (Part 5).
+2.
+For accepted development subject to requirements or assessable development under this Code:
+a.
+Part A of the code applies only to accepted development subject to requirements;
+b.
+Part B of the code applies only to assessable development.
+9.3.1.2 Purpose
+1.
+The purpose of the 9.3.1 'Dwelling house code' is to guide development to ensure residential development
+creates liveable, safe and attractive living environments that complement the precinct character.
+Note - Refer to the overall outcomes for the relevant zone, precinct or sub-precinct to determine the relevant precinct character.
+2.
+The purpose of the code will be achieved through the following overall outcomes:
+a.
+Dwelling houses(22) support housing diversity that meets the needs of existing and future residents within
+the region.
+b.
+The character and scale of Dwelling houses(22) are compatible with the intended character for the zone
+and precinct.
+Note - Refer to the overall outcomes for the relevant zone, precinct or sub-precinct to determine the relevant precinct character.
+c.
+Secondary dwellings associate with the principal dwelling and remain subordinate and ancillary to the
+principal dwelling by:
+i.
+retaining the low density, low intensity, residential form of a dwelling house(22);
+ii.
+ensuring the GFA does not exceed:
+A.
+45m
+2 GFA for a lot with a primary frontage less than 15m;
+B.
+55m
+2 GFA for a lot with a primary frontage of 15m or more.
+d.
+Garages, car ports and domestic outbuildings remain subordinate and ancillary to the principal dwelling
+and are located and designed to reduce amenity impacts on adjoining properties and not dominate the
+street frontage.
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4326
+9 Development codes
+e.
+Dwelling houses(22) are designed to add visual interest and contribute to an attractive streetscape and
+public realm.
+f.
+Dwelling houses(22) provide a high standard of built form and include landscaping on site to maintain and
+create attractive streetscapes, active frontages and surveillance.
+g.
+Dwelling houses(22) are designed to establish a high level of residential amenity, privacy and safety to
+residents, adjoining neighbours and the wider community.
+h.
+Dwelling houses(22) are designed to maintain the amenity and safety of pedestrians.
+i.
+Subtropical design standards are incorporated where possible into the design, siting and orientation of
+dwellings.
+j.
+Dwelling houses(22) provide attractive, useable and functional private open space areas that are of sufficient
+size to meet the needs of residents.
+k.
+Dwelling houses(22) are provided with infrastructure and services at a level suitable for the zone or precinct.
+l.
+Site works including earthworks are managed to be safe and have minimal impacts on adjoining or adjacent
+premises, the streetscape or the environment.
+m.
+Dwelling houses(22) are designed to respond to the lot shape, dimensions and topographic features.
+n.
+Dwelling houses(22) are designed to respond to sloping topography in the siting, design and form of buildings
+and structures (e.g. retaining structures) by:
+i.
+avoiding where possible cut and fill by responding to the natural topography of the site;
+ii.
+retaining walls are kept to a human scale and not excessive in height and do not extend for lengths
+inconsistent with the scale of a Dwelling house(22);
+iii.
+minimising any impact on the streetscape and landscape character of the precinct or sub-precinct;
+Note - Refer to the overall outcomes for the relevant zone, precinct or sub-precinct to determine the relevant precinct character.
+iv.
+protecting the amenity of adjoining properties from visual impact of cut and fill;
+v.
+ensuring slope stability;
+vi.
+ensuring all necessary maintenance is achievable.
+o.
+Development avoids areas subject to constraint, limitation, or environmental value. Where development
+cannot avoid these identified areas, it responds by:
+i.
+adopting a 'least risk, least impact' approach when designing, siting and locating development in any
+area subject to a constraint, limitation or environmental value to minimise the potential risk to people,
+property and the environment;
+ii.
+ensuring no further instability, erosion or degradation of the land, water or soil resource;
+iii.
+when located within a Water buffer area, complying with the Water Quality Vision and Objectives
+contained in the Seqwater Development Guidelines: Development Guidelines for Water Quality
+Management in Drinking Water Catchments 2012.
+iv.
+maintaining, restoring and rehabilitating environmental values, including natural, ecological, biological,
+aquatic, hydrological and amenity values, and enhancing these values through the provision of planting
+and landscaping, and facilitating safe wildlife movement and connectivity through:
+A.
+the provision of replacement, restoration, rehabilitation planting and landscaping;
+4327
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+B.
+the location, design and management of development to avoid or minimise adverse impacts on
+ecological systems and processes;
+C.
+the requiring of environmental offsets in accordance with the Environmental Offsets Act 2014.
+v.
+protecting native species and protecting and enhancing species habitat;
+vi.
+protecting and preserving the natural, aesthetic, architectural historic and cultural values of significant
+trees, places, objects and buildings of heritage and cultural significance;
+vii.
+establishing effective separation distances, buffers and mitigation measures associated with identified
+infrastructure to minimise adverse effects on sensitive land uses from odour, noise, dust and other
+nuisance generating activities;
+viii.
+establishing, maintaining and protecting appropriate buffers to waterways, wetlands, native vegetation
+and significant fauna habitat;
+ix.
+ensuring it promotes and does not undermine the ongoing viability, integrity, operation, maintenance
+and safety of identified infrastructure;
+x.
+ensuring effective and efficient disaster management response and recovery capabilities;
+xi.
+where located in an overland flow path:
+A.
+development siting, built form, layout and access responds to the risk presented by the overland
+flow and minimises risk to personal safety;
+B.
+development is resilient to the impacts of overland flow by ensuring the siting and design accounts
+for the potential risks to property associated with the overland flow;
+C.
+development does not impact on the conveyance of the overland flow for any event up to and
+including the 1% AEP for the fully developed upstream catchment;
+D.
+development directly, indirectly and cumulatively avoid an increase in the severity of overland
+flow and potential for damage on the premises or other premises, public lands, watercourses,
+roads or infrastructure.
+9.3.1.3 Requirements for assessment
+If development is to be categorised as accepted development subject to requirements it must comply with the
+requirements for accepted development set out in Part A, Table 9.3.1.1. Where the development does not meet a
+requirement for accepted development (RAD) within Part A Table 9.3.1.1, the category of development changes to
+assessable development under the rules outlined in section 5.3.3. (1), and assessment is against the corresponding
+performance outcome (PO) identified in the table below. This only occurs whenever a RAD is not met, and is
+therefore limited to the subject matter of the RADs that are not complied with. To remove any doubt, for those RADs
+that are complied with, there is no need for assessment against the corresponding PO.
+Corresponding PO
+Requirements for accepted
+development (RAD)
+PO1
+RAD1
+PO2
+RAD2
+PO3
+RAD3
+PO3
+RAD4
+PO4
+RAD5
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4328
+9 Development codes
+PO6
+RAD6
+PO7
+RAD7
+PO8
+RAD8
+PO8
+RAD9
+PO10
+RAD10
+PO12
+RAD11
+PO12
+RAD12
+PO13, PO14
+RAD13
+PO15
+RAD14
+PO17
+RAD15
+PO18
+RAD16
+PO19
+RAD17
+PO12, PO21
+RAD18
+PO21
+RAD19
+PO21
+RAD20
+PO21
+RAD21
+PO22
+RAD22
+PO23
+RAD23
+PO24-PO35
+RAD24
+PO24-PO35
+RAD25
+PO36
+RAD26
+PO37
+RAD27
+PO38
+RAD28
+PO39
+RAD29
+PO40
+RAD30
+PO41
+RAD31
+PO41
+RAD32
+PO55
+RAD33
+PO54-PO56, PO58-PO60
+RAD34
+PO54-PO56
+RAD35
+PO57
+RAD36
+PO61
+RAD37
+PO42
+RAD38
+PO42
+RAD39
+PO45
+RAD40
+PO45
+RAD41
+4329
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+PO45
+RAD42
+PO46
+RAD43
+PO47
+RAD44
+PO47
+RAD45
+PO49
+RAD46
+PO50
+RAD47
+PO51
+RAD48
+PO53
+RAD49
+PO62
+RAD50
+PO63
+RAD51
+PO64
+RAD52
+PO65
+RAD53
+PO65
+RAD54
+PO66
+RAD55
+Where accepted development subject to requirements cannot comply with one or more of the requirements for accepted
+development listed as concurrence agency issues, Council will be a Concurrence Agency for assessment of those
+aspects of a Development Application for Building Works. Noncompliance will be assessed by Council against the
+corresponding applicable performance outcomes in Part B Requirements for assessable development. Noncompliance
+with a requirement for a concurrence agency issue does not change the categories of development or categories of
+assessment. Where the Dwelling house(22) does not comply with one or more of the requirements for accepted
+development relating to a constraint, the development becomes assessable development - code assessment and an
+application will be required to be lodged with Council in accordance with the section 5.3.3(1)(a)(ii).
+Part A - Requirements for accepted development
+Table 9.3.1.1 Requirements for accepted development
+Requirements for accepted development
+General requirements (All lots - Traditional lot, Narrow lot, Row lot and Laneway lot)
+Building height
+Building height does not exceed that mapped on Overlay map – Building heights.
+RAD1
+Note - Minimum's mapped on Overlay map - Building heights, do not apply to Dwelling houses.
+Note - The above does not apply to domestic outbuildings. Refer to requirements for Domestic outbuildings in this code.
+Note - This is a quantifiable standard that is an alternative provision to the QDC, part MP1.1, A4 and part MP1.2, A4.
+Non-compliance with this provision for a Dwelling house(22) requires a concurrence agency response from Council.
+The height of tall structures (e.g. antenna, aerial, chimney, flagpole or the like) projects no more than
+8.5m above ground level and transmission and receiving dishes are no larger than 1.2m diameter.
+RAD2
+Note - This is a quantifiable standard that relates to matters identified in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house requires a concurrence agency response from council.
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4330
+9 Development codes
+Setbacks
+Setbacks (excluding built to boundary walls) comply with:
+RAD3
+a.
+Emerging community zone:
+i.
+Transition precinct (developed lot) Morayfield South urban area identified in 'Figure 9.3.1.1
+Morayfield South - Urban area ' - Table 9.3.1.6 'Setbacks'
+ii.
+Transition precinct (developed lot) all other areas - Table 9.3.1.5 'Setbacks'
+b.
+General residential zone:
+i.
+Coastal communities precinct - Table 9.3.1.3 'Setbacks'
+ii.
+Suburban neighbourhood precinct - Table 9.3.1.4 'Setbacks'
+iii.
+Next generation neighbourhood precinct - Table 9.3.1.5 'Setbacks'
+iv.
+Urban neighbourhood precinct - Table 9.3.1.6
+c.
+Caboolture West local plan:
+i.
+Urban living precinct - Next generation sub-precinct - Table 9.3.1.7 'Setbacks'
+d.
+Redcliffe Kippa-Ring local plan:
+i.
+Interim residential precinct - Table 9.3.1.3 'Setbacks'
+Except for carports in the primary and secondary frontage where they:
+a.
+are setback a minimum of:
+i.
+5.4m; or
+ii.
+if the dwelling was built before 2005:
+A.
+not less than the setback to an existing lawfully constructed carport or garage on an
+adjoining lot having the same road frontage (where a lawfully constructed carport or
+garage is located on both sides, the lesser of the two is applicable); or
+B.
+0.5m, whichever is the greater; and
+b.
+remain open and are not enclosed by walls, screens, doors or the like.
+Note - This is a quantifiable standard that is an alternative provision to the QDC, part MP1.1, A1 (a), (b) and (c), A2 (a), (b)
+and (d) and part MP1.2, A1 (a), (b) and (c), A2 (a), (b) and (d). Non-compliance with this provision for a Dwelling house(22)
+requires a concurrence agency response from Council. Note - Greater setbacks may be required if the lot adjoins an
+environmental corridor or area (Refer to values and constraints for details).
+Note - The above setbacks apply only to Class 1a and Class 10a buildings/structures, with the exception of domestic outbuildings
+(e.g garden shed) where in the Caboolture West local plan - Urban living precinct - Next generation sub-precinct and with a
+maximum roofed area not more than 10m
+2 and a height of not more than 2.5m.
+Editor's note - The location and design of the Dwelling house, specifically garages and covered car parking spaces are to
+ensure the design and location of any resultant driveways and crossovers are able to comply with relevant criteria of
+Planning scheme policy - Integrated design (Appendix A) for Driveways, Vehicle and Pedestrian Crossover.
+4331
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Built to boundary walls are:
+RAD4
+a.
+provided on lots if required by an existing approval issued by Council,and are established in
+accordance with the plan of development under that existing approval (including any subsequent
+amendments to that plan of development that are approved by council in writing)
+OR
+if no approved plan of development applies to the land, are only established on lots having a
+primary frontage of 18m or less and where permitted in Table 9.3.1.8 'Built to boundary walls';
+b.
+of a length and height not exceeding that specified in Table 9.3.1.8 'Built to boundary walls';
+c.
+setback from the side boundary:
+i.
+if a plan of development provides for only one built to boundary wall on the one boundary,
+not more than 200mm; or
+ii.
+if a built to boundary wall may be built on each side of the same boundary, not more than
+20mm;
+d.
+on the low side of a sloping lot.
+Editor's note - Lots containing built to boundary walls should also include an appropriate easement to facilitate the maintenance
+of any wall within 600mm of a boundary. For boundaries with built to boundary walls on adjacent lots a 'High Density
+Development Easement' is recommended; or for all other built to boundary walls a 'easement for maintenance purposes' is
+recommended.
+Note - The above setbacks apply only to Class 1a and Class 10a buildings/structures.
+Note - This is a quantifiable standard that is an alternative provision to the QDC, part MP1.1, A1 (a), (b) and (c), A2 (a), (b)
+and (d) and part MP1.2, A1 (a), (b) and (c), A2 (a), (b) and (d). Non-compliance with this provision for a Dwelling house(22)
+requires a concurrence agency response from Council.
+Editor's note - A wall is not to be built to the boundary if it has a window or if a wall of a building on an adjoining lot:
+a.
+is within 900mm of that boundary;
+b.
+is within 1.5m of that boundary and has an opening/window to a habitable room;
+c.
+is not constructed from masonry or other material fire rated in accordance with the Building Code of Australia.
+Site cover
+Site cover (excluding eaves, sun shading devices, patios, balconies and other unenclosed structures)
+does not exceed:
+RAD5
+a.
+Emerging community zone:
+Transition precinct (developed lot) - in accordance with the table below
+b.
+General residential zone:
+Coastal communities precinct – 50%
+Suburban neighbourhood precinct – 50%
+Next generation neighbourhood precinct – in accordance with the table below
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4332
+9 Development codes
+Urban neighbourhood precinct – in accordance with the table below
+c.
+Caboolture West local plan:
+Urban living precinct - Next generation sub-precinct - 60%
+d.
+Redcliffe Kippa-Ring local plan:
+Interim residential precinct - 50%
+Lot Size
+Building height
+Greater than
+1000m
+2
+501-1000m
+2
+401-500m
+2
+301-400m
+2
+300m
+2 or less
+60%
+60%
+60%
+70%
+75%
+8.5m or less
+50%
+50%
+60%
+50%
+50%
+>8.5m – 12.0m
+40%
+50%
+N/A
+N/A
+N/A
+>12.0m
+Note - This is a quantifiable standard that is an alternative provision to the QDC, part MP1.1, A3 and part MP1.2, A3.
+Non-compliance with this provision for a Dwelling house(22) requires a concurrence agency response from Council.
+Car parking
+Car parking spaces are provided in accordance with the table below.
+RAD6
+Minimum number of carspaces to be
+provided
+Location
+3 per Dwelling house(22)
+General residential zone:
+Coastal communities precinct
+Suburban neighbourhood precinct
+Redcliffe Kippa-Ring local plan:
+Interim residential precinct
+1 per Dwelling house(22)
+Emerging community zone:
+Transition precinct (developed lot)
+General residential zone:
+Next generation neighbourhood precinct
+Urban neighbourhood precinct
+2 per Dwelling house (22)
+Caboolture West local plan code:
+Urban living precinct - Next generation sub-precinct
+Note - Does not include the parking of Heavy Vehicles or Heavy Machinery.
+4333
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Note - This is a quantifiable standard that is an alternative provision to the QDC, part MP1.1, A8 and par MP1.2, A8.
+Non-compliance with this provision for a Dwelling house(22) requires a concurrence agency response from Council.
+Note - The provision of the third parking space may be provided in tandem on site.
+Note - For the Caboolture West local plan - Urban living precinct - Next generation sub-precinct, the provision of the second
+parking space may be provided in tandem on site.
+Garage and carport openings, where located within 20m of the site frontage, are in accordance with
+the table below:
+RAD7
+Covered car space opening(s) per street frontage
+Primary or Secondary frontage
+Not specified
+Greater than 18m
+6m wide maximum
+12.5m to 18m
+Single storey dwelling:
+Less than 12.5m*
+a.
+maximum 50% of the frontage width (being the frontage vehicle access is from);
+b.
+recessed:
+i.
+at least 1.0m behind the main building line;
+or
+ii.
+at least 1.0m behind a front portico and no more than 2.0m in front of the
+main building line.
+Two storey dwelling:
+a.
+6.0m wide maximum;
+b.
+recessed 1.0m behind the front wall or balcony of upper level.
+Editor's note - Front wall is to have a minimum length of 40% of the adjoining frontage.
+OR
+For a laneway lot (Single or two storey): no maximum
+Note - *For a laneway lot, vehicle access and parking must be provided via the laneway.
+Note - Refer to Planning scheme policy - Residential design for details and examples.
+Note - This is a quantifiable standard that is an alternative provision to the QDC, part MP1.1, A1 (b). Non-compliance with this
+provision for a Dwelling house(22) on a lot under 450m
+2 requires a concurrence agency response from Council.
+Note - This is a quantifiable standard that relates to the amenity and aesthetic impacts of the building or structure.
+Non-compliance with this provision for a Dwelling house(22) on a lot over 450m
+2 requires a concurrence agency response
+from Council.
+Access and driveways
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4334
+9 Development codes
+Any new crossovers and driveways or changes to existing crossovers and driveways:
+RAD8
+a.
+if there is an approved plan of development, are located in accordance with the plan of development
+approved by council as part of a development approval or as otherwise amended by council in
+writing; or
+b.
+if no approved plan of development applies to the land, are located in accordance with Planning
+scheme policy - Integrated design.
+Note - This is a quantifiable standard that relates to matters identified in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house requires a concurrence agency response from council.
+Driveways do not include a reversing bay, manoeuvring area or visitor parking spaces (other than
+tandem spaces) in the front setback.
+RAD9
+Note -This is a quantifiable standard that relates to matters identified in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires a concurrence agency response from Council.
+Crossovers and driveways are designed and constructed in accordance with:
+RAD10
+a.
+where for a Council-controlled road, Planning scheme policy - Integrated design;
+b.
+where for a State-controlled road, the Safe Intersection Sight Distance requirements in AustRoads
+and the appropriate IPWEAQ standard drawings, or a copy of a Transport Infrastructure Act,
+section 62 approval.
+Note - This is a quantifiable standard that relates to matters identified in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires a concurrence agency response from council.
+Casual surveillance
+The Dwelling house (or the primary dwelling if including a secondary dwelling) must address primary
+frontages (excluding motorway and arterial roads) with a minimum of a front door, window(s) and
+pedestrian entrance.
+RAD11
+Note - If an acoustic fence has been conditioned as part of a reconfiguring a lot approval this provision does not apply to that
+frontage.
+Note - Refer to Overlay map - Road hierarchy for road classification.
+Note - This is a quantifiable standard that relates to matters identified in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires a concurrence agency response from council.
+Each dwelling (primary and secondary), excluding domestic outbuildings and garages, that overlooks
+an adjoining public space (street, public open space or laneway) provides one habitable room window
+with an area of at least 1m
+2or multiple habitable room windows having a combined area of at least 2.5m
+2
+overlooking each adjoining public space (street, public open space or laneway).
+RAD12
+Note - Secondary dwellings are not required to provide a habitable room window where only the secondary dwelling garage
+overlooks the adjoining public space and all habitable rooms do not adjoin a public space.
+Note - This is a quantifiable standard that relates to matters identified in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires a concurrence agency response from council.
+4335
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Waste
+Each dwelling (primary and secondary) includes a bin storage area that:
+RAD13
+a.
+is not visible from public areas or screened from public areas;
+b.
+is not located in the primary frontage setback, unless the dwelling is built to boundary on both
+sides of the lot with only one frontage;
+c.
+is not located in an enclosed garage;
+d.
+has a minimum area of 1m x 2m;
+e.
+has access to the collection point without going through a dwelling (excluding a garage).
+Note - Refer to Planning scheme policy - Residential design for details and examples.
+Note - This is a quantifiable standard that relates to matters identified in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires a concurrence agency response from council.
+Utilities
+The dwelling is connected to:
+RAD14
+a.
+an existing reticulated electricity supply;
+b.
+reticulated sewerage where in a reticulated area;
+c.
+reticulated water;
+d.
+dedicated and constructed road.
+Note - This is a quantifiable standard that relates to matters identified in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires a concurrence agency response from council.
+Earthworks
+Filling and excavation that is outside of the external walls of any on-site building does not:
+RAD15
+a.
+involve a change in level of more than 1.0m relative to natural ground level
+or
+result in a batter greater than 1V:6H relative to natural ground level;
+b.
+necessitate the construction of a freestanding retaining wall exceeding 1.0m in height relative to
+natural ground level;
+c.
+result in the top of any cut batter, or the exposed face of any freestanding retaining wall supporting
+that cut, being closer than 500mm to a property boundary;
+d.
+result in the toe of any fill batter, or exposed face of any freestanding retaining wall supporting
+that fill, being closer than 1.0m to a property boundary unless:
+i.
+the depth of fill within that 1.0m strip does not exceed 200mm relative to natural ground level;
+or
+ii.
+the batter slope within that 1.0m strip is no steeper than 1V:2H.
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4336
+9 Development codes
+Figure - Filling or Excavation
+Note - This is a quantifiable standard that relates to the amenity and aesthetic impacts of the building or structure.
+Non-compliance with this provision for a Dwelling house(22) requires a concurrence agency response from council
+Development on a laneway
+The Dwelling house(22) (or the primary dwelling where including a secondary dwelling)
+RAD16
+a.
+faces the non-laneway frontage;
+b.
+has its main pedestrian entrance (front door) from the non-laneway frontage.
+Note - This is a quantifiable standard that relates to matters identified in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires a concurrence agency response from Council.
+All vehicle access must be via the laneway.
+RAD17
+Note - This is a quantifiable standard that relates to matters identified in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires a concurrence agency response from Council.
+Secondary dwelling
+The siting and design of dwellings ensures that the secondary dwelling is:
+RAD18
+a.
+not located in front of the primary dwelling;
+b.
+annexed to (adjoining, below or above) or located within 10.0m of the primary dwelling (excluding
+domestic outbuildings).
+4337
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Note - The requirements to locate a Secondary dwelling within 10m of the primary dwelling is measured from the outermost
+projection of the primary dwelling (being the main house, excluding domestic outbuildings) to the outermost projection of the
+Secondary dwelling. The entire Secondary dwelling does not need to be contained within the specified distance.
+Note - Refer to Planning scheme policy - Residential design for details and examples.
+Note - This is a quantifiable standard that relates to matters identified in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires a concurrence agency response from council.
+No more than 1 secondary dwelling is located on an allotment.
+RAD19
+Note - This is a quantifiable standard that relates to matters identified in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires a concurrence agency response from Council.
+The GFA of the secondary dwelling does not exceed:
+RAD20
+a.
+45m
+2 GFA for a lot with a primary frontage less than 15m; or
+b.
+55m
+2 GFA for a lot with a primary frontage of 15m or more.
+Note - This is a quantifiable standard that relates to matters identified in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires a concurrence agency response from Council.
+Provide a minimum of one designated car parking space for the Secondary dwelling (in addition to those
+required for the dwelling house). This car parking space(s) is to be co-located with the parking spaces
+for the primary dwelling to appear as a single dwelling from the street.
+RAD21
+Note - The requirement for co-locating secondary dwelling parking space(s) with the car parking space(s) for the primary
+dwelling does not apply to corner lots where the primary and secondary dwellings address different street frontages and are
+accessed via separate driveways.
+Note - This is a quantifiable standard that relates to matters identified in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires a concurrence agency response from Council.
+Note - Refer to Planning scheme policy- Residential design for details and examples.
+Domestic outbuildings
+Domestic outbuildings:
+RAD22
+a.
+have a total combined maximum roofed area as outlined in the table below:
+Maximum roofed area
+Size of lot
+50m
+2
+Less than 600m
+2
+70m
+2
+600m
+2- 1000m
+2
+80m
+2
+>1000m
+2 – 2000m
+2
+150m
+2
+Greater than 2000m
+2
+b.
+have a maximum and mean building height as follows:
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4338
+9 Development codes
+i.
+where in front of the main building line for a carport - have a maximum building height of
+3.3m and a mean height not exceeding 2.7m; or
+ii.
+for all other instances - have a maximum building height of 4m and a mean height not
+exceeding 3.5m;
+c.
+are located behind the main building line and not within the primary frontage, secondary frontage
+or trafficable water body setbacks except where for a carport and complying with the front setback
+for carports specified in this code.
+Note - for c. above to determine the main building line a trafficable water body boundary is to be treated the same as a secondary
+frontage.
+Note - This is a quantifiable standard that relates to matters identified in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house (22) requires a concurrence agency response from Council.
+Note - This is a quantifiable standard that is an alternative provision to the QDC, part MP1.1, A4 and part MP1.2, A4.
+Non-compliance with this provision for a Dwelling house (22) requires a concurrence agency response from Council.
+Note - This is a quantifiable standard that is an alternative provision to the QDC, part MP1.1, A1 (a), (b) and (c), A2 (a), (b)
+and (d) and part MP1.2, A1 (a), (b) and (c), A2 (a), (b) and (d). Non-compliance with this provision for a Dwelling house(22)
+requires a concurrence agency response from Council. Note - Greater setbacks may be required if the lot adjoins an
+environmental corridor or area (Refer to values and constraints for details).
+Editor's note - The calculation for mean height is defined in the QDC.
+Values and constraints requirements
+Note - The relevant values and constraints criteria do not apply where the development is consistent with a current Development permit for
+Reconfiguring a lot or Material change of use or Operational work, where that approval has considered and addressed (e.g. through a
+development footprint plan (or similar in the case of Landslide hazard) or conditions of approval) the identified value or constraint under this
+planning scheme.
+Acid sulfate soils - (refer Overlay map - Acid sulfate soils to determine if the following requirements apply)
+Note - Planning scheme policy - Acid sulfate soils provides guidance for requirements for accepted development that has the potential to
+disturb acid sulfate soils i.e. development involving filling or excavation works below the thresholds of 100m
+3 and 500m
+3 respectively.
+Development does not involve:
+RAD23
+a.
+excavation or otherwise removing of more than 100m
+3 of soil or sediment where below 5m Australian
+Height Datum AHD, or
+b.
+filling of land of more than 500m
+3 of material with an average depth of 0.5m or greater where below
+the 5m AHD.
+4339
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Environmental areas (refer Overlay map - Environmental areas to determine if the following requirements
+apply)
+Note - The following are excluded from the native clearing provisions of this planning scheme:
+a.
+Clearing of native vegetation located within an approved development footprint;
+b.
+Clearing of native vegetation within 10m from a lawfully established building reasonably necessary for emergency access or immediately
+required in response to an accident or emergency;
+c.
+Clearing of native vegetation reasonably necessary to remove or reduce the risk vegetation poses to serious personal injury or damage
+to infrastructure;
+d.
+Clearing of native vegetation reasonably necessary to construct and maintain a property boundary fence and not exceed 4m in width
+either side of the fence where in the Rural, Rural residential and Environmental Management and Conservation zones. In any other
+zone, clearing is not to exceed 2m in width either side of the fence;
+e.
+Clearing of native vegetation reasonably necessary for the purpose of maintenance or works within a registered easement for public
+infrastructure or drainage purposes;
+f.
+Clearing of native vegetation in accordance with a bushfire management plan prepared by a suitably qualified person, submitted to
+and accepted by Council;
+g.
+Clearing of native vegetation associated with removal of recognised weed species, maintaining existing open pastures and cropping
+land, windbreaks, lawns or created gardens;
+h.
+Grazing of native pasture by stock;
+i.
+Native forest practice where accepted development under Part 1, 1.7.7 Accepted development.
+Note - Definition for native vegetation is located in Schedule 1 Definitions.
+Note - Native vegetation subject to this criteria primarily comprises of matters of national environmental significance (MNES), matters of state
+environmental significance (MSES). They also comprise some matters of local environmental significance (MLES). A MLES is defined in
+Schedule 1.2, Administrative definitions. A list of the elements that apply to the mapped MSES and MLES is provided in Appendix 1 of the
+Planning scheme policy - Environmental areas.
+Editors' Note - The accuracy of overlay mapping can be challenged through the development application process (code assessable
+development) or by way of a planning scheme amendment. See Council's website for details.
+Editors' Note - When clearing native vegetation within a MSES area, you may still require approval from the State government.
+Where no suitable land cleared of native vegetation exists, clearing of native vegetation in a High Value
+Area or Value Area is for the purpose of a new dwelling house(22) or extension to an existing dwelling
+house(22) only on lots less than 750m
+2.
+RAD24
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4340
+9 Development codes
+Editor's note - See in heading above for other uses excluded from native vegetation clearing requirements.
+Editor's note - Where vegetation clearance is accepted development subject to requirements, care should be undertaken to
+avoid adverse impacts on koalas, koala habitat values and habitat connectivity and to encourage existing koala usage of the
+site. Measures to minimise impacts include:
+i.
+co-locating all associated activities, infrastructure and access strips;
+ii.
+be the least valued area of koala habitat on the site;
+iii.
+minimise the footprint of the development envelope area;
+iv.
+minimise edge effects to areas external to the development envelope;
+v.
+location and design consideration to ensure koala safety and movement in accordance with the Koala-sensitive Design
+Guideline and Planning scheme policy – Environmental areas;
+vi.
+sufficient area between the development and koala habitat trees to achieve their long-term viability.
+Editor's note - Where vegetation clearing is accepted development subject to requirements, consideration should be given to
+avoid clearing habitat trees. Habitat trees may contain structural hollows where animals live, breed and shelter. The provision
+of nest boxes or salvaging of hollows will provide compensatory roosting and nesting opportunities for local wildlife including
+sugar gliders, possums and owls. For further information see Planning scheme policy – Environmental areas.
+No clearing of native vegetation is to occur within the Value Offset Area MLES - Waterway buffer or
+Value Offset Area MLES - Wetland buffer.
+RAD25
+This does not apply to the following:
+a.
+Clearing of native vegetation located within an approved development footprint;
+b.
+Clearing of native vegetation within 10m from a lawfully established building reasonably necessary
+for emergency access or immediately required in response to an accident or emergency;
+c.
+Clearing of native vegetation reasonably necessary to remove or reduce the risk vegetation poses
+to serious personal injury or damage to infrastructure;
+d.
+Clearing of native vegetation reasonably necessary to construct and maintain a property boundary
+fence and not exceed 4m in width either side of the fence where in the Rural, Rural residential
+and Environmental management and conservation zones. In any other zone, clearing is not to
+exceed 2m in width either side of the fence;
+e.
+Clearing of native vegetation reasonably necessary for the purpose of maintenance or works within
+a registered easement for public infrastructure or drainage purposes;
+f.
+Clearing of native vegetation in accordance with a bushfire management plan prepared by a
+suitably qualified person, submitted to and accepted by Council;
+g.
+Clearing of native vegetation associated with removal of recognised weed species, maintaining
+existing open pastures and cropping land, windbreaks, lawns or created gardens;
+h.
+Grazing of native pasture by stock;
+i.
+Native forest practice where accepted development under Part 1, 1.7.7 Accepted development.
+Extractive resources separation area (refer Overlay map - Extractive resources (separation area) to determine
+if the following requirements apply)
+Development does not result in more than one dwelling house(22) per lot within separation areas.
+RAD26
+4341
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Development within the separation area does not include the following uses:
+RAD27
+a.
+caretaker's accommodation(10);
+b.
+community residence(16);
+c.
+dual occupancy(21);
+d.
+dwelling unit(23);
+e.
+hospital(36);
+f.
+rooming accommodation(69);
+g.
+multiple dwelling(49);
+h.
+non-resident workforce accommodation(52);
+i.
+relocatable home park(62);
+j.
+residential care facility(65);
+k.
+resort complex(66);
+l.
+retirement facility(67);
+m.
+rural workers’ accommodation(71);
+n.
+short-term accommodation(77);
+o.
+tourist park(84).
+All habitable rooms within the separation area are:
+RAD28
+a.
+acoustically insulated to achieve the noise levels listed in Schedule 1 Acoustic Quality Objectives,
+Environmental Protection (Noise) Policy 2008;
+b.
+provided with mechanical ventilation.
+Private open space areas are separated from the resource processing area by buildings or a 1.8m high
+solid structure.
+RAD29
+Extractive resources transport routes (refer Overlay map - Extractive resources (transport route and buffer)
+to determine if the following requirements apply)
+The following uses are not located within the 100m wide transport route buffer:
+RAD30
+a.
+Caretaker’s accommodation(10), except where located in the Extractive industry zone;
+b.
+Community residence(16);
+c.
+Dual occupancy(21);
+d.
+Dwelling house;(22)
+e.
+Dwelling unit(23);
+f.
+Hospital(36);
+g.
+Rooming accommodation(69);
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4342
+9 Development codes
+h.
+Multiple dwelling(49);
+i.
+Non-resident workforce accommodation(52);
+j.
+Relocatable home park(62);
+k.
+Residential care facility(65);
+l.
+Resort complex(66);
+m.
+Retirement facility(67);
+n.
+Rural workers’ accommodation(71);
+o.
+Short-term accommodation(77);
+p.
+Tourist park(84).
+Except for an existing vacant lot, development does not create a new vehicle access point onto an
+Extractive resources transport route.
+RAD31
+A vehicle access point is located, designed and constructed in accordance with Planning scheme policy
+- Integrated design.
+RAD32
+Overland flow path (refer Overlay map - Overland flow path to determine if the following requirements apply)
+Development for a material change of use or building work does not involve the construction of a building
+or structure in an Overland flow path area.
+RAD33
+Development for a material change of use or operational work does not impede the flow of flood waters
+through the premises or worsen flood flows to other premises.
+RAD34
+Note - A report from a suitably qualified Registered Professional Engineer Queensland is required certifying that the development
+does not increase the potential for significant adverse impacts on an upstream, downstream or surrounding premises.
+Note - Reporting to be prepared in accordance with Planning scheme policy – Flood hazard, Coastal hazard and Overland
+flow
+Development for a material change of use or building work ensures that fencing in an overland flow
+path area is at least 50% permeable.
+RAD35
+Development for a material change of use or building work that involves a hazardous chemical ensures
+the hazardous chemicals is not located within an overland flow path area.
+RAD36
+Development for a material change of use or building work for a Park(57) ensures that work is provided
+in accordance with the requirements set out in Appendix B of the Planning scheme policy - Integrated
+design.
+RAD37
+Heritage and landscape character (refer Overlay map - Heritage and landscape character to determine if
+the following requirements apply)
+Note - Places, including sites, objects and buildings having local cultural heritage significance, are identified on Overlay map - Heritage and
+landscape character and listed in Schedule 1 of Planning scheme policy - Heritage and landscape character. Places also having cultural
+heritage significance at a State level and being entered in the Queensland Heritage Register, are also identified in Schedule 1 of Planning
+scheme policy - Heritage and landscape character.
+Development is for the preservation, maintenance, repair and restoration of the site, object or building.
+RAD38
+4343
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+This does not apply to Listed item 99, in Schedule 1 - List of sites, objects and buildings of significant
+historical and cultural value of Planning scheme policy - Heritage and landscape character.
+Note - Preservation, maintenance, repair and restoration are defined in Schedule 1 - Definitions
+A cultural heritage conservation management plan is prepared in accordance with Planning scheme
+policy – Heritage and landscape character and submitted to Council prior to the commencement of any
+preservation, maintenance, repair and restoration works. Any preservation, maintenance, repair and
+restoration works are in accordance with the Council approved cultural heritage conservation management
+plan.
+RAD39
+This does not apply to Listed item 99 in Schedule 1 - List of sites, objects and buildings of significant
+historical and cultural value of Planning scheme policy - Heritage and landscape character.
+Development does not result in the removal of or damage to any significant tree identified on Overlay
+map – Heritage and landscape character and listed in Appendix 2 of Planning scheme policy – Heritage
+and landscape character.
+RAD40
+The following development does not occur within 20m of the base of any significant tree, identified on
+Overlay map – Heritage and landscape character and listed in Appendix 2 of Planning scheme policy
+– Heritage and landscape character:
+RAD41
+a.
+construction of any building;
+b.
+laying of overhead or underground services;
+c.
+any sealing, paving, soil compaction;
+d.
+any alteration of more than 75mm to the ground surface prior to work commencing.
+Pruning of a significant tree occurs in accordance with Australian Standard AS 4373- Pruning of amenity
+trees.
+RAD42
+Infrastructure buffers (refer Overlay map - Infrastructure buffers to determine if the following requirements
+apply)
+Development does not include the following uses within a Wastewater treatment site buffer:
+RAD43
+a.
+Caretaker’s accommodation(10);
+b.
+Community residence(16);
+c.
+Dual occupancy(21);
+d.
+Dwelling house;(22)
+e.
+Dwelling unit(23);
+f.
+Hospital(36);
+g.
+Rooming accommodation(69);
+h.
+Multiple dwelling(49);
+i.
+Non-resident workforce accommodation(52);
+j.
+Relocatable home park(62);
+k.
+Residential care facility(65);
+l.
+Resort complex(66);
+m.
+Retirement facility(67);
+n.
+Rural workers’ accommodation(71);
+o.
+Short-term accommodation(77);
+p.
+Tourist park(84).
+Development does not involve the construction of any buildings or structures within a Bulk water supply
+infrastructure buffer.
+RAD44
+Development involving a major hazard facility or an Environmentally Relevant Activity (ERA) is setback
+30m from a Bulk water supply infrastructure buffer.
+RAD45
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4344
+9 Development codes
+Development does not involve the construction of any buildings or structures within the Gas pipeline
+buffer.
+RAD46
+Development does not include the following uses located within a landfill site buffer:
+RAD47
+a.
+caretaker’s accommodation(10);
+b.
+community residence(16);
+c.
+dual occupancy(21);
+d.
+dwelling house;(22)
+e.
+dwelling unit(23);
+f.
+hospital(36);
+g.
+rooming accommodation(69);
+h.
+multiple dwelling(49);
+i.
+non-resident workforce accommodation(52);
+j.
+relocatable home park(62);
+k.
+residential care facility(65);
+l.
+resort complex(66);
+m.
+retirement facility(67);
+n.
+rural workers’ accommodation(71);
+o.
+short term accommodation(77);
+p.
+tourist park(84).
+All habitable rooms located within an Electricity supply substation buffer are:
+RAD48
+a.
+located a minimum of 10m from an electricity supply substation(80) ; and
+b.
+acoustically insulated to achieve the noise levels listed in Schedule 1, Acoustic Quality Objectives,
+Environmental Protection (Noise) Policy 2008.
+Development does not involve the construction of any buildings or structures containing habitable rooms
+or sensitive land uses within a High voltage electricity line buffer.
+RAD49
+Riparian and wetland setbacks (refer Overlay map - Riparian and wetland setback to determine if the
+following requirements apply)
+Note - W1, W2 and W3 waterway and drainage lines, and wetlands are mapped on Schedule 2, Section 2.5 Overlay Maps – Riparian and
+wetland setbacks.
+No development is to occur within:
+RAD50
+a.
+50m from top of bank for W1 waterway and drainage line
+b.
+30m from top of bank for W2 waterway and drainage line
+4345
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+c.
+20m from top of bank for W3 waterway and drainage line
+d.
+100m from the edge of a Ramsar wetland, 50m from all other wetlands.
+Note - W1, W2 and W3 waterways and drainage lines, and wetlands are mapped on Schedule 2, Section 2.5 Overlay Maps
+– Riparian and wetland setbacks.
+Note - In some cases, the top of bank may not be easily defined, as such a hydraulic measurement may be applied instead.
+Moreton Bay Regional Council will provide further direction on how to determine and locate the setback boundary in these
+locations.
+Note - The minimum setback distance applies to the each side of waterway.
+Scenic amenity - Regionally significant (Hills) and Locally important (Coast) - (refer Overlay map - Scenic
+amenity to determine if the following requirements apply)
+Where located in the Regionally significant (Hills) scenic amenity overlay, buildings and structures are
+not:
+RAD51
+a.
+located on a hill top or ridge line; and
+b.
+all parts of the building and structure are located below the hill top or ridge line.
+Where located in the Regionally significant (Hills) scenic amenity overlay, driveways and accessways:
+RAD52
+a.
+go across land contours and do not cut straight up slopes;
+b.
+follow natural contours, not resulting in batters or retaining walls being greater than 1m in height.
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4346
+9 Development codes
+Where located in the Regionally significant (Hills) scenic amenity overlay, roofs and wall surfaces of
+buildings and structures adopt the following colours:
+RAD53
+Colours from Australian Standard AS2700s – 1996
+N44 – Bridge Grey
+G53 – Banksia
+G12 – Holly
+N45 – Koala Grey
+G54 – Mist Green
+G13 – Emerald
+N52 – Mid Grey
+G55 – Lichen
+G14 – Moss Green
+N54 – Basalt
+G56 – Sage Green
+G15 – Rainforest Green
+N55 – Lead Grey
+G62 – Rivergum
+G16 – Traffic Green
+X54 – Brown
+G64 – Slate
+G17 – Mint Green
+X61 – Wombat
+G65 – Ti Tree
+G21 – Jade
+X62 – Dark Earth
+N25 – Birch Grey
+G22 – Serpentine
+X63 – Iron Bark
+N32 – Green Grey
+G23 – Shamrock
+Y51 – Bronze Olive
+N33 – Lightbox Grey
+G24 – Fern Green
+Y61 – Black Olive
+N35 – Light Grey
+G25 – Olive
+Y63 – Khaki
+N41 – Oyster
+G34 – Avocado
+Y66 – Mudstone
+N42 – Storm Grey
+G52 – Eucalyptus
+N43 – Pipeline Grey
+Where located in the Regionally significant (Hills) scenic amenity overlay, roofs and wall surfaces of
+buildings and structures are painted or finished such that reflectivity is less than 35%.
+RAD54
+Where located in the Locally important (Coast) scenic amenity overlay;
+RAD55
+a.
+landscaping comprises indigenous coastal species;
+4347
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+b.
+fences and walls facing the coast are no higher than 1m. Where fences and walls are higher than
+1m, they have 50% transparency. This does not apply to a fence or wall at an angle of 90o to the
+coast;
+c.
+where over 12m in height, the building design includes the following architectural character
+elements:
+i.
+curving balcony edges and walls, strong vertical blades and wall planes;
+ii.
+balcony roofs, wall articulation expressed with different colours, curves in plan and section, and
+window awnings;
+iii.
+Roof top outlooks, tensile structure as shading devices; and
+iv.
+lightweight structures use white frame elements in steel and timber, bold colour contrast.
+d.
+existing pine trees, palm trees, mature fig and cotton trees are retained.
+Note - A list of appropriate indigenous coastal species is identified in Planning scheme policy - Integrated design.
+Transport noise corridors (refer Overlay map - Transport noise corridors)
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4348
+9 Development codes
+Note - This is for information purposes only. No requirements for accepted development or assessable criteria apply. Development located
+within a Transport Noise Corridor must satisfy the requirements of the Queensland Development Code
+Part B - Criteria for assessable development
+Where development is categorised as assessable development - code assessment in the Table of Assessment, the
+assessment benchmarks are the criteria set out in Part B, Table 9.3.1.2 as well as the purpose statement and overall
+outcomes of this code.
+Where development is categorised as assessable development - impact assessable, the assessment benchmarks
+become the whole of the planning scheme.
+Table 9.3.1.2 Criteria for assessable development
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+Building height
+E1
+PO1
+Building height does not exceed that mapped on Overlay
+map – Building heights.
+Buildings have a height that:
+a.
+is consistent with the intended character of the
+streetscape, precinct and zone;
+Note - Minimum's mapped on Overlay map - Building heights, do
+not apply to Dwelling houses.
+b.
+responds to the topographical features of the lot,
+including slope and orientation;
+Note - The above does not apply to domestic outbuildings. Refer to
+assessment criteria for Domestic outbuildings for requirements.
+c.
+is not visually dominant or overbearing with respect
+to the streetscape.
+Note - This is a quantifiable standard that is an alternative provision
+to the QDC, part MP1.1, A4 and part MP1.2, A4. Non-compliance
+with this provision for a Dwelling house requires a concurrence
+agency response from Council.
+Note - This is a qualitative statement that is an alternative provision
+to the QDC, part MP1.1, P4 and MP1.2, P4.
+Note - Refer to Planning scheme policy - Residential design for
+details and examples.
+E2
+PO2
+The height of tall structures (e.g. antenna, aerial,
+chimney, flagpole or the like) projects no more than 8.5m
+above ground level and transmission and receiving dishes
+are no larger than 1.2m diameter.
+Tall structures (e.g. antenna, aerial, chimney, flagpole,
+receiving dishes or the like) have a height and diameter
+that:
+a.
+is not visually dominant or overbearing with respect
+to the streetscape and the wider receiving
+environment;
+Note - This is a quantifiable standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house requires a
+concurrence agency response from council.
+b.
+does not adversely affect amenity of the area or of
+adjoining properties.
+Setbacks
+E3.1
+PO3
+Setbacks comply with:
+Dwelling houses(22) and structures are setback to:
+4349
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+a.
+Emerging community zone:
+a.
+be consistent with the intended character of the
+streetscape, precinct and zone;
+i.
+Transition precinct (developed lot) Morayfield
+South urban area identified in 'Figure 9.3.1.1
+Morayfield South - Urban area ' - Table
+9.3.1.6 'Setbacks'
+Note - Refer to the overall outcomes for the relevant zone,
+precinct or sub-precinct to determine the relevant precinct
+character intended.
+ii.
+Transition precinct (developed lot) all other
+areas - Table 9.3.1.5 'Setbacks'
+b.
+ensure parked vehicles do not restrict pedestrian
+and traffic movement and safety;
+c.
+provide adequate separation to particular
+infrastructure and waterbodies to minimise adverse
+impacts on people, property, water quality and
+infrastructure;
+b.
+General residential zone:
+i.
+Coastal communities precinct - Table
+9.3.1.3 'Setbacks'
+d.
+maintain the privacy of residents and adjoining
+properties;
+ii.
+Suburban neighbourhood precinct - Table
+9.3.1.4 'Setbacks'
+e.
+limit the length and height of boundary walls to
+maximise privacy and amenity of residents on
+adjoining properties;
+iii.
+Next generation neighbourhood precinct -
+Table 9.3.1.5 'Setbacks'
+iv.
+Urban neighbourhood precinct - Table
+9.3.1.6 'Setbacks'
+f.
+ensure built to boundary walls do not create
+unusable or inaccessible spaces and do not
+negatively impact the streetscape character or the
+expected amenity of residents on adjoining
+properties;
+c.
+Caboolture West local plan:
+i.
+Urban living precinct - Next generation
+sub-precinct - Table 9.3.1.7 'Setbacks'
+g.
+maintain private open space areas that are of a size
+and shape that are attractive, useable and
+functional, and in the Caboolture West local plan
+are maximised between the dwelling and rear
+boundary; and
+d.
+Redcliffe Kippa-Ring local plan:
+i.
+Interim residential precinct - Setbacks
+h.
+ensure covered car parking spaces and domestic
+outbuildings that are visible from the street or public
+place are of a scale, location and built form that is
+Except for carports in the primary and secondary
+frontage where they:
+consistent with the existing streetscape and
+character of the precinct and avoids dominating or
+otherwise negatively impacting the streetscape or
+adjoining properties.
+a.
+Are set back a minimum of:
+i.
+5.4m; or
+ii.
+if the dwelling was built before 2005:
+Editor's note - For example, materials, colours, finishes and roof
+form are consistent with the existing dwelling.
+A.
+not less than the setback to an existing
+lawfully constructed carport or garage
+on an adjoining lot having the same road
+Note - This is a qualitative statement that is an alternative provision
+to the QDC, part MP1.1, P1 and P2 and MP1.2, P1 and P2.
+frontage (where a lawfully constructed
+carport or garage is located on both
+sides, the lesser of the two is
+applicable); or
+Note - Refer to Planning scheme policy - Residential design for
+details and examples.
+B.
+0.5m, whichever is the greater; and
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4350
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+Editor's note - The location and design of the Dwelling house,
+specifically garages and covered car parking spaces are to ensure
+the design and location of any resultant driveways and crossovers
+b.
+remain open and are not enclosed by walls,
+screens, doors or the like.
+are able to comply with relevant criteria of Planning scheme policy
+- Integrated design (Appendix A) for Driveways, Vehicle and
+Pedestrian Crossover.
+Note - This is a quantifiable standard that is an alternative provision
+to the QDC, part MP1.1, A1 (a), (b) and (c), A2 (a), (b) and (d) and
+part MP1.2, A1 (a), (b) and (c), A2 (a), (b) and (d). Non-compliance
+with this provision for a Dwelling house(22) requires a concurrence
+agency response from Council.Note - Greater setbacks may be
+required if the lot adjoins an environmental corridor or area (Refer
+to values and constraints for details).
+Note - The above setbacks apply only to Class 1a and Class 10a
+buildings/structures, with the exception of domestic outbuildings (e.g
+garden shed) where in the Caboolture West local plan - Urban living
+precinct - Next generation sub-precinct and with a maximum roofed
+area not more than 10m
+2 and a height of not more than 2.5m.
+Editor's note - The location and design of the Dwelling house,
+specifically garages and covered car parking spaces are to ensure
+the design and location of any resultant driveways and crossovers
+are able to comply with relevant criteria of Planning scheme policy
+- Integrated design (Appendix A) for Driveways, Vehicle and
+Pedestrian Crossover.
+E3.2
+Built to boundary walls are:
+a.
+provided on lots if required by an existing approval
+issued by Council, and are established in
+accordance with the plan of development under
+that existing approval (including any subsequent
+amendments to that plan of development that are
+approved by council in writing);
+OR
+if no approved plan of development applies to the
+land, are only established on lots having a primary
+frontage of 18m or less and where permitted in
+Table 9.3.1.8 'Built to boundary walls';
+b.
+of a length and height not exceeding that
+specified in Table 9.3.1.8 'Built to boundary walls'
+c.
+setback from the side boundary:
+i.
+if a plan of development provides for only one
+built to boundary wall on the one boundary,
+not more than 200mm; or
+ii.
+if a built to boundary wall may be built on each
+side of the same boundary, not more than
+20mm;
+d.
+on the low side of a sloping lot.
+4351
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+Editor's note - Lots containing built to boundary walls should also
+include an appropriate easement to facilitate the maintenance of
+any wall within 600mm of a boundary. For boundaries with built to
+boundary walls on adjacent lots a 'High Density Development
+Easement' is recommended; or for all other built to boundary walls
+a 'easement for maintenance purposes' is recommended.
+Note - The above setbacks apply only to Class 1a and Class 10a
+buildings/structures.
+Note - This is a quantifiable standard that is an alternative provision
+to the QDC, part MP1.1, A1 (a), (b) and (c), A2 (a), (b) and (d) and
+part MP1.2, A1 (a), (b) and (c), A2 (a), (b) and (d). Non-compliance
+with this provision for a Dwelling house(22) requires a concurrence
+agency response from Council.
+Editor's note - A wall is not to be built to the boundary if it has a
+window or if a wall of a building on an adjoining lot:
+a.
+is within 900mm of that boundary;
+b.
+is within 1.5m of that boundary and has an opening/window
+to a habitable room;
+c.
+is not constructed from masonry or other material fire rated
+in accordance with the Building Code of Australia.
+Site cover
+E4
+PO4
+Site cover (excluding eaves, sun shading devices, patios,
+balconies and other unenclosed structures) does not
+exceed:
+Dwelling houses(22) and structures will ensure that site
+cover:
+a.
+provides open areas around buildings for attractive,
+useable and functional private open space;
+a.
+Emerging community zone:
+Transition precinct (developed lot) - in
+accordance with the table below
+b.
+ensures that buildings and structures are consistent
+with the intended character of the area;
+c.
+does not result in other elements of the site being
+compromised (e.g. setbacks, open space etc).
+b.
+General residential zone:
+Coastal communities precinct – 50%
+Note - This is a qualitative statement that is an alternative provision
+to the QDC, part MP1.1, P3 and MP1.2, P3.
+Suburban neighbourhood precinct – 50%
+Note - Refer to Planning scheme policy - Residential design for
+details and examples.
+Next generation neighbourhood precinct – in
+accordance with the table below
+Urban neighbourhood precinct – in
+accordance with the table below
+c.
+Caboolture West local plan:
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4352
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+Urban living precinct - Next generation
+sub-precinct - 60%
+d.
+Redcliffe Kippa-Ring local plan:
+Interim residential precinct - 50%
+Lot Size
+Building
+height
+Greater
+than
+1000m
+2
+501-1000m
+2
+401-500m
+2
+301-400m
+2
+300m
+2
+or less
+60%
+60%
+60%
+70%
+75%
+8.5m or
+less
+50%
+50%
+60%
+50%
+50%
+>8.5m –
+12.0m
+40%
+50%
+N/A
+N/A
+N/A
+>12.0m
+Note - This is a quantifiable standard that is an alternative provision
+to the QDC, part MP1.1, A3 and part MP1.2, A3. Non-compliance
+with this provision for a Dwelling house(22) requires a concurrence
+agency response from Council.
+Private open space
+No example provided.
+PO5
+Dwellings are provided with private open space that is:
+a.
+of a size and dimension to be useable and
+functional;
+b.
+directly accessible from the dwelling;
+c.
+located so that residents and neighbouring
+properties experience a suitable level of residential
+amenity;
+d.
+free of objects or structures that reduce or limit
+functionality.
+Note - Dwelling houses(22) adjoining an arterial or sub-arterial road
+must not locate private open space areas adjoining or within the
+setback to that road. Refer to Overlay map - Road hierarchy for road
+classifications.
+Note - Utility areas (e.g. driveways, air-conditioning units, water
+tanks, clothes drying facility, storage structures, refuse storage areas
+and retaining structures) are to be shown on a site plan.
+4353
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+Note - Private open space areas may be included within an
+unenclosed living structure (e.g. patio).
+Note - This is a qualitative standard that relates to the amenity and
+aesthetic impacts of the building or structure.
+Car parking
+E6
+PO6
+Car parking spaces are provided in accordance with the
+table below.
+Car parking is provided on-site that provides for the
+number and type of vehicles anticipated to access the
+lot and ensures a surplus of car parking is avoided.
+Minimum number of car
+spaces to be provided
+Location
+Note - This is a qualitative statement that is an alternative provision
+to the QDC, part MP1.1, P8 and MP1.2, P8.
+3 per Dwelling house(22)
+General residential zone:
+Coastal communities
+precinct
+Suburban neighbourhood
+precinct
+Redcliffe Kippa-Ring local plan:
+Interim residential
+precinct
+1 per Dwelling house(22)
+Emerging community zone:
+Transition precinct
+(developed lot)
+General residential zone:
+Next generation
+neighbourhood precinct
+Urban neighbourhood
+precinct
+2 per Dwelling house (22)
+Caboolture West local plan code:
+Urban living precinct -
+Next generation
+sub-precinct
+Note - Does not include the parking of Heavy Vehicles or Heavy
+Machinery.
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4354
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+Note - This is a quantifiable standard that is an alternative provision
+to the QDC, part MP1.1, A8 and par MP1.2, A8. Non-compliance
+with this provision for a Dwelling house(22) requires a concurrence
+agency response from Council.
+Note - The provision of the third parking space may be provided in
+tandem on site.
+Note - For the Caboolture West local plan - Urban living precinct -
+Next generation sub-precinct, the provision of the second parking
+space may be provided in tandem on site.
+E7
+PO7
+Garage and carport openings, where located within 20m
+of the site frontage, are in accordance with the table
+below:
+Garages and carports facing a street are designed to:
+a.
+not dominate the street frontage;
+b.
+maintain active frontages and opportunities for
+surveillance from within the dwelling;
+Covered car space opening(s) per street
+frontage
+Primary or
+Secondary
+frontage
+c.
+contribute to the intended character of the
+streetscape.
+Not specified
+Greater than
+18m
+6m wide maximum
+12.5m to 18m
+Note - This is a qualitative standard that is an alternative provision
+to the QDC, part MP1.1, P1.
+Single storey dwelling:
+Less than
+12.5m*
+a.
+maximum 50% of the frontage width
+(being the frontage vehicle access is
+from);
+Note - This is a qualitative standard that relates to the amenity and
+aesthetic impacts of the building or structure.
+b.
+recessed:
+Note - Refer to Planning scheme policy - Residential design for
+details and examples.
+i.
+at least 1.0m behind the main
+building line;
+or
+ii.
+at least 1.0m behind a front portico
+and no more than 2.0m in front of
+the main building line.
+Two storey dwelling:
+a.
+6.0m wide maximum;
+b.
+recessed 1.0m behind the front wall or
+balcony of upper level.
+Editor's note - Front wall is to have a minimum length of
+40% of the adjoining frontage.
+OR
+For a laneway lot (Single or two storey): no
+maximum
+Note - *For a laneway lot, vehicle access and parking must be
+provided via the laneway.
+4355
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+Note - Refer to Planning scheme policy - Residential design for
+details and examples.
+Note - For a Dwelling house on a lot under 450m
+2, this is a
+quantifiable standard that is an alternative provision to the QDC,
+part MP1.1, A1 (b). Non-compliance with this provision requires a
+concurrence agency response from Council.
+Note - For a Dwelling house on a lot of 450m
+2 or more, this is a
+quantifiable standard that relates to matters identified in Schedule
+9, Part 3, Division 2, Table of Regulation. Non-compliance with this
+provision requires a concurrence agency response from Council.
+Access and driveways
+E8.1
+PO8
+Crossovers and driveways are located in accordance
+with Planning scheme policy - Integrated design.
+Driveways, pedestrian entries and internal access ways
+are designed to:
+Note - This is a quantifiable standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+a.
+provide lawful access;
+b.
+not detract from the creation of active street
+frontages and positively contribute to the intended
+streetscape character;
+Non-compliance with this provision for a Dwelling house requires a
+concurrence agency response from council.
+E8.2
+c.
+provide a safe pedestrian environment;
+Where there is a plan of development, driveway
+crossovers are located in accordance with a plan of
+development approved by Council as part of a
+development approval or as otherwise amended by
+Council in writing.
+d.
+not result in excessive crossovers and hardstand
+areas;
+e.
+allows adequate space for on-street parking;
+f.
+allows adequate space for street planting and street
+trees;
+Note - This is a quantifiable standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires
+a concurrence agency response from council.
+g.
+allow adequate space for garbage collection and
+the location of street infrastructure.
+E8.3
+Note - This is a qualitative standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Driveways do not include a reversing bay, manoeuvring
+area or visitor parking spaces (other than tandem spaces)
+in the front setback.
+Note - Refer to Planning scheme policy - Residential design for
+details and examples.
+Note - This is a quantifiable standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires
+a concurrence agency response from Council.
+No example provided.
+PO9
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4356
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+The driveway construction across the verge conforms to
+the relevant standard drawing for the classification of the
+road in accordance with Planning scheme policy -
+Integrated design.
+Note - This is a qualitative standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+No example provided.
+PO10
+Crossovers and driveways are designed and constructed
+in accordance with:
+a.
+where for a Council-controlled road, Planning
+scheme policy - Integrated design;
+b.
+where for a State-controlled road, the Safe
+Intersection Sight Distance requirements in
+Austroads and the appropriate IPWEAQ standard
+drawings, or a copy of a Transport Infrastructure
+Act, section 62 approval.
+Note - This is a qualitative standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Screening – fences
+No example provided.
+PO11
+Fencing and screening complements the streetscape
+character, contributes to privacy while maintaining
+surveillance between buildings and public spaces.
+Note - The objective of providing surveillance of the street takes
+precedence over the provision of physical barriers for noise mitigation
+purposes. Where a barrier for noise is unavoidable it is to be
+aesthetically treated in accordance with an option detailed in
+Planning scheme policy - Residential design.
+Note - This is a qualitative standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Note - Refer to Planning scheme policy - Residential design for
+details and examples.
+Casual surveillance
+E12.1
+PO12
+The Dwelling house (or the primary dwelling if including
+a secondary dwelling) must address primary frontages
+(excluding motorway and arterial roads) with a minimum
+of a front door, window(s) and pedestrian entrance.
+Buildings and structures are designed and oriented to
+have active frontages that provide visual interest, address
+road frontages and facilitate casual surveillance of all
+public spaces (streets, laneways, public open space
+areas, pedestrian paths and car parking areas) through:
+4357
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+Note - If an acoustic fence has been conditioned as part of a
+reconfiguring a lot approval this provision does not apply to that
+frontage.
+a.
+incorporating habitable room windows and
+balconies that overlook public spaces including
+secondary frontages;
+b.
+emphasising the pedestrian entry so that it is easily
+identifiable and safely accessible from the primary
+frontage.
+Note - Refer to Overlay map - Road hierarchy for road classification.
+Note - This is a quantifiable standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires
+a concurrence agency response from council.
+Note - Dwelling houses(22) adjoining an arterial or sub-arterial road
+must address the arterial or sub-arterial road. Refer to Overlay map
+- Road hierarchy for road classifications.
+Note - Refer to Planning scheme policy - Residential design for
+details and examples.
+Note - Refer to State Government standards for CPTED.
+E12.2
+Note - Ground level dwellings at the front of the lot have individual
+access points to the street.
+Each dwelling (primary and secondary), excluding
+domestic outbuildings and garages, that overlooks an
+adjoining public space (street, public open space or
+Note - This is a qualitative standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+laneway) provides one habitable room window with an
+area of at least 1m
+2or multiple habitable room windows
+having a combined area of at least 2.5m
+2overlooking
+each adjoining public space (street, public open space
+or laneway).
+Note - Secondary dwellings are not required to provide a habitable
+room window where only the secondary dwelling garage overlooks
+the adjoining public space and all habitable rooms do not adjoin a
+public space.
+Note - This is a quantifiable standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires
+a concurrence agency response from council.
+Waste
+E13
+PO13
+Each dwelling (primary and secondary) includes a bin
+storage area that:
+Bins and bin storage areas are provided, designed and
+managed in accordance with Planning scheme policy –
+Waste.
+a.
+is not visible from public areas or screened from
+public areas;
+Note - This is a qualitative standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+b.
+is not located in the primary frontage setback,
+unless the dwelling is built to boundary on both
+sides of the lot with only one frontage;
+c.
+is not located in an enclosed garage;
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4358
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+d.
+has a minimum area of 1m x 2m;
+e.
+has access to the collection point without going
+through a dwelling (excluding a garage).
+Note - Refer to Planning scheme policy - Residential design for
+details and examples.
+Note - This is a quantifiable standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires
+a concurrence agency response from council.
+No example provided.
+PO14
+Waste storage areas are:
+a.
+not located in front of the main building line; or
+b.
+are screened and aesthetically treated (e.g. with
+landscaping) to not dominate the streetscape.
+Note - This is a qualitative standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Note - Refer to Planning scheme policy - Residential design for
+details and examples.
+Utilities
+E15
+PO15
+The dwelling is connected to:
+The dwelling is connected to:
+a.
+an existing reticulated electricity supply;
+a.
+an existing reticulated electricity supply;
+b.
+b.
+reticulated sewerage;
+reticulated sewerage where in a reticulated area;
+c.
+c.
+reticulated water;
+reticulated water;
+d.
+d.
+dedicated and constructed road.
+dedicated and constructed road.
+Note - This is a quantifiable standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires
+a concurrence agency response from council.
+Note - This is a qualitative standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Earthworks
+E16
+PO16
+4359
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+Earth retaining structures:
+All earth retaining structures provide a positive interface
+with the streetscape and minimise impacts on the amenity
+of adjoining residents.
+a.
+are not constructed of boulder rocks or timber;
+b.
+where height is no greater than 900mm, are
+provided in accordance with Figure - Retaining on
+a boundary;
+Note - This is a quantifiable standard that relates to the amenity and
+aesthetic impacts of the building or structure.
+Note - Refer to Planning scheme policy - Residential design for
+guidance on how to achieve compliance with this performance
+outcome.
+Figure - Retaining on boundary
+c.
+where height is greater than 900mm but no greater
+than 1.5m, are to be setback at least the equivalent
+height of the retaining structure from any property
+boundary;
+d.
+where height is greater than 1.5m, are to be setback
+and stepped 1.5m vertical: 1.5m horizontal,
+terraced, landscaped and drained as shown below.
+Figure - Cut
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4360
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+Figure - Fill
+Note - This is a quantifiable standard that relates to the amenity and
+aesthetic impacts of the building or structure.
+E17.1
+PO17
+Building and lot design on slopes between 10% and 15%
+must:
+Development is designed to respond to sloping
+topography in the siting, design and form of buildings
+and structures by:
+a.
+avoid single-plane slabs and benching with the use
+of split-level, multiple-slab, pier or pole construction;
+a.
+minimising overuse of cut and fill to create single
+flat pads and benching;
+b.
+have built to boundary walls on the low side of the
+lot to avoid drainage issues.
+b.
+avoiding expanses of retaining walls, loss of trees
+and vegetation and interference with natural
+drainage systems;
+Note - This is a quantifiable standard that relates to the amenity and
+aesthetic impacts of the building or structure.
+c.
+minimising any impact on the landscape character
+of the zone;
+E17.2
+d.
+protecting the amenity of adjoining properties.
+New buildings on land with a slope greater than 15% do
+not have slab on ground construction.
+Note - Refer to Planning scheme policy - Residential design for
+details and examples.
+Note - This is a quantifiable standard that relates to the amenity and
+aesthetic impacts of the building or structure.
+Note - This is a quantifiable standard that relates to the amenity and
+aesthetic impacts of the building or structure.
+Note - there is no height specified for fill or excavation wholly
+contained within the dwelling footprint (i.e. the area within the outer
+structural extremities of the dwelling).
+Development on a laneway
+4361
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+E18
+PO18
+The Dwelling house(22) (or the primary dwelling where
+including a secondary dwelling)
+Where a lot has a non-laneway frontage, the dwelling is
+designed and orientated towards the non-laneway
+frontage e.g. Street or park) and incorporates design
+a.
+faces the non-laneway frontage;
+elements to address and activate the non-laneway
+frontage (e.g. front door, windows, low front fencing (if
+any) with a gate etc).
+b.
+has its main pedestrian entrance (front door) from
+the non-laneway frontage.
+Note - This is a qualitative standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Note - This is a quantifiable standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires
+a concurrence agency response from Council.
+No example provided.
+PO19
+All vehicle access must be via the laneway.
+Note - This is a qualitative standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+No example provided.
+PO20
+Dwelling houses(22) on laneways contribute to the
+streetscape by:
+a.
+providing concealed garbage bin storage areas to
+reduce the dominance of bins on the lane;
+b.
+maximising security and amenity;
+c.
+including landscaping that:
+i.
+does not provide areas of concealment;
+ii.
+breaks up the dominance of garages and
+vehicle parking;
+iii.
+delineates the boundaries between lots.
+Note - This is a qualitative standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Secondary dwelling
+E21.1
+PO21
+The siting and design of dwellings ensures that the
+secondary dwelling is:
+Secondary dwellings:
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4362
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+a.
+are subordinate and ancillary to the primary dwelling
+in size and function;
+a.
+not located in front of the primary dwelling;
+b.
+annexed to (adjoining, below or above) or located
+within 10.0m of the primary dwelling (excluding
+domestic outbuildings).
+b.
+have a GFA that does not exceed:
+i.
+45m
+2 for a lot with a primary frontage less than
+15m; or
+Note - The requirements to locate a Secondary dwelling within 10m
+of the primary dwelling is measured from the outermost projection
+of the primary dwelling (being the main house, excluding domestic
+ii.
+55m
+2 for a lot with a primary frontage of 15m
+or more.
+outbuildings) to the outermost projection of the Secondary dwelling.
+The entire Secondary dwelling does not need to be contained within
+the specified distance.
+c.
+have the appearance, bulk and scale of a single
+dwelling from the street;
+Note - Refer to Planning scheme policy - Residential design for
+details and examples.
+d.
+maintain sufficient area for the siting of all buildings,
+structures, landscaping and car parking spaces for
+the Dwelling house(22) and secondary dwelling on
+the lot.
+Note - This is a quantifiable standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires
+a concurrence agency response from council.
+Note - This is a qualitative standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+E21.2
+No more than 1 secondary dwelling is located on an
+allotment.
+Note - This is a quantifiable standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires
+a concurrence agency response from Council.
+E21.3
+The GFA of the secondary dwelling does not exceed:
+a.
+45m
+2 GFA for a lot with a primary frontage less than
+15m; or
+b.
+55m
+2 GFA for a lot with a primary frontage of 15m
+or more.
+Note - This is a quantifiable standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires
+a concurrence agency response from Council.
+E21.4
+4363
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+Provide a minimum of one designated car parking space
+for the Secondary dwelling (in addition to those required
+for the dwelling house). This car parking space(s) is to
+be co-located with the parking space(s) for the primary
+dwelling to appear as a single dwelling from the street.
+Note - The requirement for co-locating secondary dwelling parking
+space(s) with the car parking space(s) for the primary dwelling does
+not apply to corner lots where the primary and secondary dwellings
+address different street frontages and are accessed via separate
+driveways.
+Note - This is a quantifiable standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires
+a concurrence agency response from Council.
+Note - Refer to Planning scheme policy- Residential design for details
+and examples.
+Domestic outbuildings
+E22
+PO22
+Domestic outbuildings:
+Domestic outbuildings and car ports:
+a.
+have a total combined maximum roofed area as
+outlined in the table below:
+a.
+are of a height that does not negatively impact the
+visual amenity of adjoining properties;
+b.
+where visible from the street or public place are of
+a scale, location and built form that is consistent
+with the existing streetscape and character of the
+Maximum roofed area
+Size of lot
+50m
+2
+Less than 600m
+2
+precinct and avoids dominating or otherwise
+negatively impacting the streetscape or adjoining
+properties.
+70m
+2
+600m
+2- 1000m
+2
+80m
+2
+>1000m
+2 – 2000m
+2
+150m
+2
+Greater than 2000m
+2
+Note - This is a qualitative standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+b.
+have a maximum and mean building height as
+follows:
+i.
+where in front of the main building line for a
+carport - have a maximum building height of
+3.3m and a mean height not exceeding 2.7m;
+or
+ii.
+for all other instances - have a maximum
+building height of 4m and a mean height not
+exceeding 3.5m;
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4364
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+c.
+are located behind the main building line and not
+within the primary frontage, secondary frontage or
+trafficable water body setbacks except where for a
+carport and complying with the front setback for
+carports specified in this code.
+Note - for c. above to determine the main building line a trafficable
+water body boundary is to be treated the same as a secondary
+frontage.
+Note - This is a quantifiable standard that relates to matters identified
+in Schedule 9, Part 3, Division 2, Table of Regulation.
+Non-compliance with this provision for a Dwelling house(22) requires
+a concurrence agency response from Council.
+Note - This is a quantifiable standard that is an alternative provision
+to the QDC, part MP1.1, A4 and part MP1.2, A4. Non-compliance
+with this provision for a Dwelling house requires a concurrence
+agency response from Council.
+Note - This is a quantifiable standard that is an alternative provision
+to the QDC, part MP1.1, A1 (a), (b) and (c), A2 (a), (b) and (d) and
+part MP1.2, A1 (a), (b) and (c), A2 (a), (b) and (d). Non-compliance
+with this provision for a Dwelling houserequires a concurrence
+agency response from Council. Note - Greater setbacks may be
+required if the lot adjoins an environmental corridor or area (Refer
+to values and constraints for details).
+Editor's note - The calculation for mean height is defined in the QDC.
+Values and constraints criteria
+Note - The relevant values and constraints criteria do not apply where the development is consistent with a current Development permit for
+Reconfiguring a lot or Material change of use or Operational work, where that approval has considered and addressed (e.g. through a
+development footprint plan (or similar in the case of Landslide hazard) or conditions of approval) the identified value or constraint under this
+planning scheme.
+Acid sulfate soils - (refer Overlay map - Acid sulfate soils to determine if the following assessment criteria
+apply)
+Note - To demonstrate achievement of the performance outcome, an Acid sulfate soils (ASS) investigation report and soil management plan
+is prepared by a qualified engineer. Guidance for the preparation an ASS investigation report and soil management plan is provided in
+Planning scheme policy - Acid sulfate soils.
+E23
+PO23
+Development does not involve:
+Development avoids disturbing acid sulfate soils. Where
+development disturbs acid sulfate soils, development:
+a.
+excavation or otherwise removing of more than
+100m
+3 of soil or sediment where below than 5m
+Australian Height datum AHD; or
+a.
+is managed to avoid or minimise the release of
+surface or groundwater flows containing acid and
+metal contaminants into the environment;
+b.
+filling of land of more than 500m
+3 of material with
+an average depth of 0.5m or greater where below
+the 5m Australian Height datum AHD.
+4365
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+b.
+protects the environmental and ecological values
+and health of receiving waters;
+c.
+protects buildings and infrastructure from the effects
+of acid sulfate soils.
+Environmental areas (refer Overlay map - Environmental areas to determine if the following assessment
+criteria apply)
+Note – The following are excluded from the native vegetation clearing provisions of this planning scheme:
+a.
+Clearing of native vegetation located within an approved development footprint;
+b.
+Clearing of native vegetation within 10m from a lawfully established building reasonably necessary for emergency access or immediately
+required in response to an accident or emergency;
+c.
+Clearing of native vegetation reasonably necessary to remove or reduce the risk vegetation poses to serious personal injury or damage
+to infrastructure;
+d.
+Clearing of native vegetation reasonably necessary to construct and maintain a property boundary fence and not exceed 4m in width
+either side of the fence where in the Rural, Rural residential and Environmental Management and Conservation zones. In any other
+zone, clearing is not to exceed 2m in width either side of the fence;
+e.
+Clearing of native vegetation reasonably necessary for the purpose of maintenance or works within a registered easement for public
+infrastructure or drainage purposes;
+f.
+Clearing of native vegetation in accordance with a bushfire management plan prepared by a suitably qualified person, submitted to
+and accepted by Council;
+g.
+Clearing of native vegetation associated with removal of recognised weed species, maintaining existing open pastures and cropping
+land, windbreaks, lawns or created gardens;
+h.
+Grazing of native pasture by stock;
+i.
+Native forest practice where accepted development under Part 1, 1.7.7 Accepted development
+Note - Definition for native vegetation is located in Schedule 1 Definitions.
+Note - Native vegetation subject to this criteria primarily comprises of matters of national environmental significance (MNES), matters of state
+environmental significance (MSES). They also comprise some matters of local environmental significance (MLES). A MLES is defined in
+Schedule 1.2, Administrative definitions. A list of the elements that apply to the mapped MSES and MLES is provided in Appendix 1 of the
+Planning scheme policy - Environmental areas.
+Editors' Note - The accuracy of overlay mapping can be challenged through the development application process (code assessable
+development) or by way of a planning scheme amendment. See Council's website for details.
+Note - To demonstrate achievement of the performance outcome, an ecological assessment, vegetation management plan and fauna
+management plan, as required, are prepared by a suitably qualified person. Guidance for the preparation of above mentioned reports is
+provided in Planning scheme policy - Environmental areas.
+Vegetation clearing, ecological value and connectivity
+No example provided.
+PO24
+Development avoids locating in a High Value Area or a
+Value Offset Area. Where it is not practicable or
+reasonable for development to avoid establishing in these
+areas, development must ensure that:
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4366
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+a.
+the quality and integrity of the biodiversity and
+ecological values inherent to a High Value Area
+and a Value Offset Area is maintained and not lost
+or degraded;
+b.
+on-site mitigation measures, mechanisms or
+processes are in place demonstrating the quality
+and integrity of the biodiversity and ecological
+values inherent to a High Value Area and a Value
+Offset Area are maintained. For example, this can
+be achieved through replacement, restoration or
+rehabilitation planting as part of any proposed
+covenant, the development of a Vegetation
+Management Plan, a Fauna Management Plan,
+and any other on-site mitigation options identified
+in the Planning scheme policy - Environmental
+areas*.
+* Editor's note - This is not a requirement for an environmental offset
+under the Environmental Offsets Act 2014.
+No example provided.
+PO25
+Development provides for safe, unimpeded, convenient
+and ongoing wildlife movement and establishes and
+maintains habitat connectivity by:
+a.
+retaining habitat trees;
+b.
+providing contiguous patches of habitat;
+c.
+provide replacement and rehabilitation planting to
+improve connectivity;
+d.
+avoiding the creation of fragmented and isolated
+patches of habitat;
+e.
+providing wildlife movement infrastructure.
+Editor's note - Wildlife movement infrastructure may include refuge
+poles, tree boulevarding, ‘stepping stone’ vegetation plantings,
+tunnels, appropriate wildlife fencing; culverts with ledges,
+underpasses, overpasses, land bridges and rope bridges. Further
+information is provided in Planning scheme policy – Environmental
+areas.
+Vegetation clearing and habitat protection
+No example provided.
+PO26
+Development ensures that the biodiversity quality and
+integrity of habitats is not adversely impacted upon but
+maintained and protected.
+No example provided.
+PO27
+4367
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+Development does not result in the net loss or
+degradation of habitat value in a High Value Area or a
+Value Offset Area. Where development does result in
+the loss or degradation of habitat value, development
+will:
+a.
+rehabilitate, revegetate, restore and enhance an
+area to ensure it continues to function as a viable
+and healthy habitat area;
+b.
+provide replacement fauna nesting boxes in the
+event of habitat tree loss in accordance with
+Planning scheme policy - Environmental areas;
+c.
+undertake rehabilitation, revegetation and
+restoration in accordance with the South East
+Queensland Ecological Restoration Framework.
+No example provided.
+PO28
+Development ensures safe, unimpeded, convenient and
+ongoing wildlife movement and habitat connectivity by:
+a.
+providing contiguous patches of habitat;
+b.
+avoiding the creation of fragmented and isolated
+patches of habitat;
+c.
+providing wildlife movement infrastructure;
+d.
+providing replacement and rehabilitation planting
+to improve connectivity.
+Vegetation clearing and soil resource stability
+No example provided.
+PO29
+Development does not:
+a.
+result in soil erosion or land degradation;
+b.
+leave cleared land exposed for an unreasonable
+period of time but is rehabilitated in a timely manner.
+Vegetation clearing and water quality
+No example provided.
+PO30
+Development maintains or improves the quality of
+groundwater and surface water within, and downstream,
+of a site by:
+a.
+ensuring an effective vegetated buffers and
+setbacks from waterbodies is retained to achieve
+natural filtration and reduce sediment loads;
+b.
+avoiding or minimising changes to landforms to
+maintain hydrological water flows;
+c.
+adopting suitable measures to exclude livestock
+from entering a waterbody where a site is being
+used for animal husbandry(4) and animal keeping(5)
+activities.
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4368
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+No example provided.
+PO31
+Development minimises adverse impacts of stormwater
+run-off on water quality by:
+a.
+minimising flow velocity to reduce erosion;
+b.
+minimising hard surface areas;
+c.
+maximising the use of permeable surfaces;
+d.
+incorporating sediment retention devices;
+e.
+minimising channelled flow.
+Vegetation clearing and access, edge effects and urban heat island effects
+No example provided.
+PO32
+Development retains safe and convenient public access
+in a manner that does not result in the adverse edge
+effects or the loss or degradation of biodiversity values
+within the environment.
+No example provided.
+PO33
+Development minimises potential adverse ‘edge effects’
+on ecological values by:
+a.
+providing dense planting buffers of native vegetation
+between a development and environmental areas;
+b.
+retaining patches of native vegetation of greatest
+possible size where located between a development
+and environmental areas ;
+c.
+restoring, rehabilitating and increasing the size of
+existing patches of native vegetation;
+d.
+ensuring that buildings and access (public and
+vehicle) are setback as far as possible from
+environmental areas and corridors;
+e.
+landscaping with native plants of local origin.
+Editor's note - Edge effects are factors of development that go to
+detrimentally affecting the composition and density of natural
+populations at the fringe of natural areas. Factors include weed
+invasion, pets, public and vehicle access, nutrient loads, noise and
+light pollution, increased fire frequency and changes in the
+groundwater and surface water flow.
+No example provided.
+PO34
+Development avoids adverse microclimate change and
+does not result in increased urban heat island effects.
+Adverse urban heat island effects are minimised by:
+a.
+pervious surfaces;
+b.
+providing deeply planted vegetation buffers and
+green linkage opportunities;
+4369
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+c.
+landscaping with local native plant species to
+achieve well-shaded urban places;
+d.
+increasing the service extent of the urban forest
+canopy.
+Vegetation clearing and Matters of Local Environmental Significance (MLES) environmental offsets
+No example provided.
+PO35
+Where development results in the unavoidable loss of
+native vegetation within a Value Offset Area MLES
+waterway buffer or a Value Offset Area MLES wetland
+buffer, an environmental offset is required in accordance
+with the environmental offset requirements identified in
+Planning scheme policy - Environmental areas.
+Editor's note - For MSES Koala Offsets, the environmental offset
+provisions in Schedule 11 of the Regulation, in combination with the
+requirements of the Environmental Offsets Act 2014, apply.
+Extractive resources separation area (refer Overlay map - Extractive resources (separation area) to determine
+if the following assessment criteria apply)
+Note - To demonstrate achievement of the performance outcomes, a noise impact assessment report is prepared by a suitably qualified
+person. Guidance to preparing noise impact assessment report is provided in Planning scheme policy – Noise.
+E36
+PO36
+One dwelling house(22) permitted per lot within separation
+area.
+Development does not increase the number of people
+living in the Extractive Resources separation area.
+E37
+PO37
+Development within the separation area does not include
+the following activities:
+Development:
+a.
+does not introduce or increase uses that are
+sensitive to the impacts of an Extractive industry(27);
+a.
+Caretaker's accommodation(10);
+b.
+b.
+is compatible with the operation of an Extractive
+industry(27);
+Community residence(16);
+c.
+Dual occupancy(21);
+c.
+does not comprise or undermine the function and
+integrity of the separation area in providing a buffer
+d.
+Dwelling unit(23);
+e.
+Hospital(36);
+between key extractive and processing activities
+f.
+Rooming accommodation(69);
+and sensitive, incompatible uses outside the
+separation area.
+g.
+Multiple dwelling(49);
+h.
+Non-resident workforce accommodation(52);
+i.
+Relocatable home park(62);
+j.
+Residential care facility(65);
+k.
+Resort complex(66);
+l.
+Retirement facility(67);
+m.
+Rural workers’ accommodation(71);
+n.
+Short-term accommodation(77);
+o.
+Tourist park(84).
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4370
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+E38
+PO38
+All habitable rooms within the separation area are:
+Habitable rooms achieve the noise levels listed in
+Schedule 1 Acoustic Quality Objectives, Environmental
+Protection (Noise) Policy 2008 and provides a safe,
+healthy and disturbance free living environment.
+a.
+acoustically insulated to achieve the noise levels
+listed in Schedule 1 Acoustic Quality Objectives,
+Environmental Protection (Noise) Policy 2008;
+b.
+provided with mechanical ventilation.
+E39
+PO39
+Private open space areas are separated from the
+resource processing area by buildings or a 1.8m high
+solid structure.
+Development provides open space areas for passive
+recreation in a manner where impacts from key
+extractive/processing activities, particularly noise, is
+minimised.
+Extractive resources transport route (refer Overlay map - Extractive resources (transport route and buffer)
+to determine if the following assessment criteria apply)
+E40
+PO40
+The following uses are not located within the 100m wide
+transport route buffer:
+Development:
+a.
+does not increase in the number of people living in
+close proximity to a transport route and being
+a.
+Caretaker’s accommodation(10), except where
+located in the Extractive industry zone;
+subject to the adverse effects from the
+transportation route;
+b.
+Community residence(16);
+b.
+does not result in the establishment of uses that
+are incompatible with the operation of Extractive
+resources transport routes;
+c.
+Dual occupancy(21);
+d.
+Dwelling house(22);
+e.
+Dwelling unit(23);
+c.
+adopts design and location measures to
+satisfactorily mitigate the potential adverse impacts
+f.
+Hospital(36);
+g.
+Rooming accommodation(69);
+associated with transportation routes on sensitive
+h.
+Multiple dwelling(49);
+land uses. Such measures include, but are not
+limited to:
+i.
+Non-resident workforce accommodation(52);
+j.
+Relocatable home park(62);
+k.
+Residential care facility(65);
+i.
+locating the furthest distance possible from
+the transportation route;
+l.
+Resort complex(66);
+m.
+Retirement facility(67);
+ii.
+habitable rooms being located the furthest
+from the transportation route;
+n.
+Rural workers’ accommodation(71);
+iii.
+o.
+shielding and screening private outdoor
+recreation space from the transportation
+routes.
+Short-term accommodation(77);
+p.
+Tourist park(84).
+E41.1
+PO41
+Development does not create a new vehicle access point
+onto an Extractive resources transport route.
+Development:
+a.
+does not adversely impact upon the efficient and
+effective transportation of extractive material along
+a transportation route;
+E41.2
+b.
+ensures vehicle access and egress along
+transportation routes are designed and located to
+4371
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+A vehicle access point is located, designed and
+constructed in accordance with Planning scheme policy
+- Integrated design.
+achieve a high degree of safety, having good
+visibility;
+c.
+utilises existing vehicle access points and where
+existing vehicle access points are sub-standard or
+poorly formed, they are upgraded to an appropriate
+standard.
+Heritage and landscape character (refer Overlay map - Heritage and landscape character to determine if
+the following assessment criteria apply)
+Note - To assist in demonstrating achievement of heritage performance outcomes, a Cultural heritage impact assessment report is prepared
+by a suitably qualified person verifying the proposed development is in accordance with The Australia ICOMOS Burra Charter.
+Note - To assist in demonstrating achievement of this performance outcome, a Tree assessment report is prepared by a qualified arborist in
+accordance with Planning scheme policy – Heritage and landscape character. The Tree assessment report will also detail the measures
+adopted in accordance with AS 4970-2009 Protection of trees on development sites.
+Note - Places, including sites, objects and buildings having local cultural heritage significance, are identified on Overlay map - Heritage and
+landscape character and listed in Schedule 1 of Planning scheme policy - Heritage and landscape character. Places also having cultural
+heritage significance at a State level and being entered in the Queensland Heritage Register, are also identified in Schedule 1 of Planning
+scheme policy - Heritage and landscape character.
+E42
+PO42
+Development is for the preservation, maintenance, repair
+and restoration of a site, object or building of cultural
+heritage value.
+Development will:
+a.
+not diminish or cause irreversible damage to the
+cultural heritage values present on the site, and
+associated with a heritage site, object or building;
+Note - A cultural heritage conservation management plan for the
+preservation, maintenance, repair and restoration of a site, object
+b.
+protect the fabric and setting of the heritage site,
+object or building;
+or building of cultural heritage value is prepared in accordance with
+Planning scheme policy - Heritage and landscape character. The
+c.
+be consistent with the form, scale and style of the
+heritage site, object or building;
+plan is sent to, and approved by Council prior to the commencement
+of any preservation, maintenance, repair and restoration works.
+d.
+utilise similar materials to those existing, or where
+this is not reasonable or practicable, neutral
+materials and finishes;
+e.
+incorporate complementary elements, detailing and
+ornamentation to those present on the heritage site,
+object or building;
+f.
+retain public access where this is currently provided.
+No example provided.
+PO43
+Demolition and removal is only considered where:
+a.
+a report prepared by a suitably qualified
+conservation architect or conservation engineer
+demonstrates that the building is structurally
+unsound and is not reasonably capable of economic
+repair; or
+b.
+demolition is confined to the removal of
+outbuildings, extensions and alterations that are
+not part of the original structure; or
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4372
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+c.
+limited demolition is performed in the course of
+repairs, maintenance or restoration; or
+d.
+demolition is performed following a catastrophic
+event which substantially destroys the building or
+object.
+No example provided.
+PO44
+Where development is occurring on land adjoining a site
+of cultural heritage value, the development is to be
+sympathetic to and consistent with the cultural heritage
+values present on the site and not result in their values
+being eroded, degraded or unreasonably obscured from
+public view.
+E45
+PO45
+Development does:
+Development does not adversely impact upon the health
+and vitality of significant trees. Where development
+occurs in proximity to a significant tree, construction
+a.
+not result in the removal of a significant tree;
+b.
+not occur within 20m of a protected tree;
+measures and techniques as detailed in AS 4970-2009
+Protection of trees on development sites are adopted to
+ensure a significant tree's health, wellbeing and vitality.
+c.
+involve pruning of a tree in accordance with
+Australian Standard AS 4373-2007 – Pruning of
+Amenity Trees.
+Significant trees are only removed where they are in a
+poor state of health or where they pose a health and
+safety risk to persons or property. A Tree Assessment
+report prepared by a suitably qualified arborist confirming
+a tree's state of health is required to demonstrate
+achievement of this performance outcome.
+Infrastructure buffers (refer Overlay map - Infrastructure buffers to determine if the following assessment
+criteria apply)
+E46
+PO46
+The following uses are not located within a wastewater
+treatment site buffer:
+Odour sensitive development is separated from
+Wastewater treatment plants so they are not adversely
+affected by odour emission or other air pollutant impacts.
+a.
+Caretaker’s accommodation(10);
+b.
+Community residence(16);
+c.
+Dual occupancy(21);
+d.
+Dwelling house(22)
+e.
+Dwelling unit(23);
+f.
+Hospital(36);
+g.
+Rooming accommodation(69);
+h.
+Multiple dwelling(49);
+i.
+Non-resident workforce accommodation(52);
+j.
+Relocatable home park(62);
+k.
+Residential care facility(65);
+l.
+Resort complex(66);
+m.
+Retirement facility(67);
+n.
+Rural workers’ accommodation(71);
+4373
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+o.
+Short-term accommodation(77);
+p.
+Tourist park(84).
+E47
+PO47
+Development:
+Development within a Bulk water supply infrastructure
+buffer is located, designed and constructed to:
+a.
+does not involve the construction of any buildings
+or structures within a Bulk water supply
+infrastructure buffer;
+a.
+protect the integrity of the water supply pipeline;
+b.
+maintain adequate access for any required
+maintenance or upgrading work to the water supply
+pipeline;
+b.
+involving a major hazard facility or environmentally
+relevant activity (ERA) is setback 30m from a Bulk
+water supply infrastructure buffer.
+E48
+PO48
+Development does not restrict access to Bulk water
+supply infrastructure of any type or size, having regard
+to (among other things):
+Development is located and designed to maintain
+required access to Bulk water supply infrastructure.
+a.
+buildings or structures;
+b.
+gates and fences;
+c.
+storage of equipment or materials;
+d.
+landscaping or earthworks or stormwater or other
+infrastructure.
+E49
+PO49
+Development does not involve the construction of any
+buildings or structures within the Gas pipeline buffer.
+Development within the Gas pipeline buffer:
+a.
+avoids attracting people in large numbers to live,
+work or congregate;
+Editor's note - The Petroleum and Gas (Production and Safety) Act
+2004 (sections 807 and 808) requires that building or changes in
+b.
+avoids the storage of hazardous chemicals;
+surface level on pipeline land must not occur unless all the pipeline
+licence holders consent.
+c.
+maintains adequate access for any required
+maintenance or upgrading work;
+d.
+minimises risk of harm to people and property.
+Editor's note - The Petroleum and Gas (Production and Safety) Act
+2004 (sections 807 and 808) requires that building or changes in
+surface level on pipeline land must not occur unless all the pipeline
+licence holders consent.
+E50
+PO50
+The following uses are not located within a Landfill buffer:
+Odour sensitive development is separated from landfill
+sites so they are not adversely affected by odour
+emission or other air pollutant impacts.
+a.
+Caretaker’s accommodation(10);
+b.
+Community residence(16);
+c.
+Dual occupancy(21);
+d.
+Dwelling house(22);
+e.
+Dwelling unit(23);
+f.
+Hospital(36);
+g.
+Rooming accommodation(69);
+h.
+Multiple dwelling(49);
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4374
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+i.
+Non-resident workforce accommodation(52);
+j.
+Relocatable home park(62);
+k.
+Residential care facility(65);
+l.
+Resort complex(66);
+m.
+Retirement facility(67);
+n.
+Rural workers’ accommodation(71);
+o.
+Short-term accommodation(77);
+p.
+Tourist park(84).
+E51
+PO51
+Habitable rooms:
+Habitable rooms within an Electricity supply substation
+buffer are located a sufficient distance from
+substations(80) to avoid any potential adverse impacts
+on personal health and wellbeing from electromagnetic
+fields.
+a.
+are not located within an Electricity supply
+substation buffer; and
+b.
+proposed on a site subject to an Electricity supply
+supply substation(80)are acoustically insulted to
+Note - Habitable room is defined in the Building Code of Australia
+(Volume 1)
+achieve the noise levels listed in Schedule 1,
+Acoustic Quality Objectives, Environmental
+Protection (Noise) Policy 2008.
+Note - Habitable room is defined in the Building Code of Australia
+(Volume 1)
+No example provided.
+PO52
+Habitable rooms within an Electricity supply substation
+buffer are acoustically insulated from the noise of a
+substation(80) to achieve the noise levels listed in
+Schedule 1 Acoustic Quality Objectives, Environmental
+Protection (Noise) Policy 2008 and provides a safe,
+healthy and disturbance free living environment.
+Note - To demonstrate achievement of the performance outcome,
+a noise impact assessment report is prepared by a suitably qualified
+person. Guidance to preparing an noise impact assessment report
+is provided in Planning scheme policy – Noise.
+Note - Habitable room is defined in the Building Code of Australia
+(Volume 1)
+E53
+PO53
+Development does not involve the construction of any
+buildings or structures within a High voltage electricity
+line buffer.
+Development within a High voltage electricity line buffer
+provides adequate buffers to high voltage electricity lines
+to protect amenity and health by ensuring development:
+a.
+is located and designed to avoid any potential
+adverse impacts on personal health and wellbeing
+from electromagnetic fields in accordance with the
+principle of prudent avoidance;
+4375
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+b.
+is located and designed in a manner that maintains
+a high level of security of supply;
+c.
+is located and design so not to impede upon the
+functioning and maintenance of high voltage
+electrical infrastructure.
+Overland flow path (refer Overlay map - Overland flow path to determine if the following assessment criteria
+apply)
+Note - The applicable river and creek flood planning levels associated with defined flood event (DFE) within the inundation area can be
+obtained by requesting a flood check property report from Council.
+No example provided.
+PO54
+Development:
+a.
+minimises the risk to persons from overland flow;
+b.
+does not increase the potential for damage from
+overland flow either on the premises or other
+premises, public land, watercourses, roads or
+infrastructure.
+No example provided.
+PO55
+Development:
+a.
+maintains the conveyance of overland flow
+predominantly unimpeded through the premises for
+any event up to and including the 1% AEP for the
+fully developed upstream catchment;
+b.
+does not concentrate, intensify or divert overland
+flow onto an upstream, downstream or surrounding
+property.
+Note - A report from a suitably qualified Registered Professional
+Engineer Queensland is required certifying that the development
+does not increase the potential for significant adverse impacts on
+an upstream, downstream or surrounding premises.
+Note - Reporting to be prepared in accordance with Planning scheme
+policy – Flood hazard, Coastal hazard and Overland flow.
+No example provided.
+PO56
+Development does not:
+a.
+directly, indirectly or cumulatively cause any
+increase in overland flow velocity or level;
+b.
+increase the potential for flood damage from
+overland flow either on the premises or other
+premises, public lands, watercourses, roads or
+infrastructure.
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4376
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+Note - Open concrete drains greater than 1m in width are not an
+acceptable outcome, nor are any other design options that may
+increase scouring.
+E57
+PO57
+Development ensures that a hazardous chemical is not
+located or stored in an Overland flow path area.
+Development ensures that public safety and the risk to
+the environment are not adversely affected by a
+detrimental impact of overland flow on a hazardous
+chemical located or stored on the premises.
+Note - Refer to the Work Health and Safety Act 2011 and associated
+Regulation and Guidelines, the Environmental Protection Act 1994
+and the relevant building assessment provisions under the Building
+Act 1975 for requirements related to the manufacture and storage
+of hazardous substances.
+E58
+PO58
+Development which is not in a Rural zone that an
+overland flow paths and drainage infrastructure is
+provided to convey overland flow from a road or public
+open space area away from a private lot.
+Development which is not in a Rural zone ensures that
+overland flow is not conveyed from a road or public open
+space onto a private lot.
+E59.1
+PO59
+Development ensures that roof and allotment drainage
+infrastructure is provided in accordance with the following
+relevant level as identified in QUDM:
+Development ensures that inter-allotment drainage
+infrastructure, overland flow paths and open drains
+through private property cater for overland flows for a
+fully developed upstream catchment and are able to be
+easily maintained.
+a.
+Urban area – Level III;
+b.
+Rural area – N/A;
+Note - A report from a suitably qualified Registered Professional
+Engineer Queensland is required certifying that the development
+c.
+Industrial area – Level V;
+d.
+Commercial area – Level V.
+does not increase the potential for significant adverse impacts on
+an upstream, downstream or surrounding premises.
+E59.2
+Note - Reporting to be prepared in accordance with Planning scheme
+policy – Flood hazard, Coastal hazard and Overland flow
+Development ensures that inter-allotment drainage
+infrastructure is designed to accommodate any event up
+to and including the 1% AEP for the fully developed
+upstream catchment.
+No example provided.
+PO60
+Development protects the conveyance of overland flow
+such that an easement for drainage purposes is provided
+over:
+a.
+a stormwater pipe if the nominal pipe diameter
+exceeds 300mm;
+b.
+an overland flow path where it crosses more than
+one premises;
+c.
+inter-allotment drainage infrastructure.
+4377
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+Note - Refer to Planning scheme policy - Integrated design for details
+and examples.
+Note - Stormwater Drainage easement dimensions are provided in
+accordance with Section 3.8.5 of QUDM.
+Additional criteria for development for a Park(57)
+E61
+PO61
+Development for a Park(57) ensures works are provided
+in accordance with the requirements set out in Appendix
+B of the Planning scheme policy - Integrated design.
+Development for a Park(57) ensures that the design and
+layout responds to the nature of the overland flow
+affecting the premises such that:
+a.
+public benefit and enjoyment is maximised;
+b.
+impacts on the asset life and integrity of park
+structures is minimised;
+c.
+maintenance and replacement costs are minimised.
+Riparian and wetland setbacks
+E62
+PO62
+Development does not occur within:
+Development provides and maintains a suitable setback
+from waterways and wetlands that protects natural and
+environmental values. This is achieved by recognising
+and responding to the following matters:
+a.
+50m from top of bank for W1 waterway and
+drainage line
+b.
+30m from top of bank for W2 waterway and
+drainage line
+a.
+impact on fauna habitats;
+b.
+impact on wildlife corridors and connectivity;
+c.
+20m from top of bank for W3 waterway and
+drainage line
+c.
+impact on stream integrity;
+d.
+d.
+100m from the edge of a Ramsar wetland, 50m
+from all other wetlands.
+impact of opportunities for revegetation and
+rehabilitation planting;
+e.
+edge effects.
+Note - W1, W2 and W3 waterway and drainage lines, and wetlands
+are mapped on Schedule 2, Section 2.5 Overlay Maps – Riparian
+and wetland setbacks.
+Scenic amenity - Regionally significant (Hills) and Locally important (Coast) (refer Overlay map - Scenic
+amenity to determine if the following assessment criteria apply)
+E63
+PO63
+Where located in the Regionally significant (Hills) scenic
+amenity overlay, buildings and structures are not:
+Development:
+a.
+avoids being viewed as a visually conspicuous built
+form on a hill top or ridgeline;
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4378
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+a.
+located on a hill top or ridge line;
+b.
+retain the natural character or bushland settings as
+the dominant landscape characteristic;
+b.
+all parts of the building and structure are located
+below the hill top or ridge line.
+c.
+is viewed as being visually consistent with the
+natural landscape setting and does not diminish
+the scenic and visual qualities present in the
+environment.
+E64
+PO64
+Where located in the Regionally significant (Hills) scenic
+amenity overlay, driveways and accessways:
+Development:
+a.
+does not adversely detract or degrade the quality
+of views, vista or key landmarks;
+a.
+go across land contours, and do not cut straight up
+slopes;
+b.
+retains the natural character or bushland settings
+as the dominant landscape characteristic.
+b.
+follow natural contours, not resulting in batters or
+retaining walls being greater than 900mm in height.
+E65.1
+PO65
+Where located in the Regionally significant (hills) scenic
+amenity overlay, roofs and wall surfaces of buildings and
+structures adopt the following colours:
+Buildings and structures incorporate colours and finishes
+that:
+a.
+are consistent with a natural, open space character
+and bushland environment;
+Colours from Australian Standard AS2700s – 1996
+b.
+do not produce glare or appear visual incompatible
+with the surrounding natural character and bushland
+environment;
+N 44 – Bridge Grey
+G54 – Mist Green
+G12 – Holly
+N45 – Koala Grey
+G55 – Lichen
+G13 – Emerald
+c.
+are not visually dominant or detract from the natural
+qualities of the landscape.
+N52 – Mid Grey
+G56 – Sage Green
+G14 – Moss Green
+N54 – Basalt
+G62 – Rivergum
+G15 – Rainforest
+Green
+N55 – Lead Grey
+G64 – Slate
+G16 – Traffic Green
+X54 – Brown
+G65 – Ti Tree
+G17 – Mint Green
+X61 – Wombat
+N25 – Birch Grey
+G21 – Jade
+X62 – Dark Earth
+N32 – Green Grey
+G22 – Serpentine
+X63 – Iron Bark
+N33 – Lightbox Grey
+G23 – Shamrock
+Y51 – Bronze Olive
+N35 – Light Grey
+G24 – Fern Green
+Y61 – Black Olive
+N41 – Oyster
+G25 – Olive
+Y63 – Khaki
+N42 – Storm Grey
+G34 – Avocado
+Y66 – Mudstone
+N43 – Pipeline Grey
+G52 – Eucalyptus
+G53 – Banksia
+E65.2
+4379
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Examples that achieve aspects of the Performance
+Outcomes
+Performance Outcomes
+General criteria
+Where located in the Regionally significant (hills) scenic
+amenity overlay, roofs and wall surfaces of buildings and
+structures are painted or finished such that reflectivity is
+less than 35%.
+E66
+PO66
+Where located in the Locally Important (Coast) scenic
+amenity overlay:
+Landscaping
+a.
+complements the coastal landscape character and
+amenity;
+a.
+landscaping comprises indigenous coastal species;
+b.
+b.
+has known resilience and robustness in the coastal
+environment;
+fences and walls are no higher than 1m; and
+c.
+existing pine trees, palm trees, mature fig and
+cotton trees are retained.
+Fences and walls:
+d.
+where over 12m in height, the building design
+includes the following architectural character
+elements:
+a.
+do not appear visually dominant or conspicuous
+within its setting;
+b.
+reduce visual appearance through the use of built
+form articulation, setbacks, and plant screening;
+i.
+curving balcony edges and walls, strong
+vertical blades and wall planes;
+c.
+use materials and colours that are complementary
+to the coastal environment.
+ii.
+balcony roofs, wall articulation expressed with
+different colours, curves in plan and section,
+and window awnings;
+Building design responds to the bayside location and
+complements the particular bayside character and
+amenity by adopting and incorporating a range of
+architectural character elements.
+iii.
+roof top outlooks, tensile structures as shading
+devices;
+iv.
+lightweight structures use white frame
+elements in steel and timber, bold colour
+contrast.
+Vegetation that contributes to bayside character and
+identity are:
+a.
+retained;
+b.
+protected from development diminishing their
+significance.
+Transport noise corridors (refer Overlay map - Transport noise corridors to determine if the following
+assessment criteria apply)
+Note - This is for information purposes only. No requirements for accepted development or assessable criteria apply. Development located
+within a Transport Noise Corridor must satisfy the requirements of the Queensland Development Code
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4380
+9 Development codes
+Setback Tables
+Table 9.3.1.3 Setbacks
+Coastal communities precinct and Redcliffe Kippa-Ring local plan - Interim residential precinct
+Trafficable
+water
+body
+Rear To
+OMP and
+wall
+Side To
+OMP and
+wall
+Frontage
+Secondary
+to lane
+Frontage
+Secondary to street
+Frontage
+Primary
+Height of
+wall
+To OMP
+and wall
+To OMP,
+wall and
+covered
+To
+covered
+car
+To OMP
+To wall
+To covered
+car parking
+space and
+domestic
+outbuildings
+To OMP
+To wall
+car
+parking
+space
+parking
+space and
+domestic
+outbuildings
+Min 4.5m
+Refer to
+standard
+Refer to
+standard
+Min 0.5
+Min 5.4
+Min 2m
+Min 3m
+Min 5.4
+Min 4.5m
+Min 6m
+Less than
+4.5m
+as in
+QDC
+as in
+QDC
+Min 4.5m
+Refer to
+standard
+Refer to
+standard
+Min 0.5
+N/A
+Min 2m
+Min 3m
+N/A
+Min 4.5m
+Min 6m
+4.5m to
+8.5m
+as in
+QDC
+as in
+QDC
+Min 4.5m
+Refer to
+standard
+Refer to
+standard
+Min 0.5
+N/A
+Min 2m
+Min 3m
+N/A
+Min 4.5m
+Min 6m
+Greater
+than 8.5m
+as in
+QDC
+as in
+QDC
+Table 9.3.1.4 Setbacks
+General residential zone - Suburban neighbourhood precinct and Township zone - Residential precinct
+Trafficable
+water
+body To
+OMP and
+wall
+Rear To
+OMP and
+wall
+Side
+Non-built
+to
+boundary
+wall To
+OMP and
+wall
+Frontage
+Secondary
+to lane
+Frontage
+Secondary to street
+Frontage
+Primary
+Height of
+wall
+To OMP,
+wall and
+covered
+To
+covered
+car
+To OMP
+To wall
+To
+covered
+car
+To OMP
+To wall
+car
+parking
+space
+parking
+space and
+domestic
+outbuildings
+parking
+space
+and
+domestic
+outbuildings
+Min 4.5m
+Refer to
+standard
+Refer to
+standard
+Min 0.5
+Min 5.4
+Min 2m
+Min 3m
+Min 5.4
+Min 3m
+Min 4.5m
+Less
+than
+4.5m
+as in
+QDC
+as in
+QDC
+Min 4.5m
+Refer to
+standard
+Refer to
+standard
+Min 0.5
+N/A
+Min 2m
+Min 3m
+N/A
+Min 3m
+Min 4.5m
+4.5m to
+8.5m
+as in
+QDC
+as in
+QDC
+Min 4.5m
+Refer to
+standard
+Refer to
+standard
+Min 0.5
+N/A
+Min 2m
+Min 3m
+N/A
+Min 3m
+Min 4.5m
+Greater
+than 8.5.
+as in
+QDC
+as in
+QDC
+4381
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+Table 9.3.1.5 Setbacks
+Emerging community zone - Transition precinct (developed lot), General residential zone - Next generation neighbourhood precinct
+Trafficable
+water
+body To
+OMP and
+wall
+Rear To
+OMP and
+wall
+Side
+Non-built
+to
+boundary
+wall To
+OMP and
+wall
+Frontage
+Secondary
+to lane
+Frontage Secondary to street
+Frontage Primary
+Height of
+wall
+To OMP,
+wall and
+covered
+To covered
+car
+parking
+To OMP
+To wall
+To
+covered
+car
+To OMP
+To wall
+car
+parking
+space
+space and
+domestic
+outbuildings
+parking
+space and
+domestic
+outbuildings
+Min 4.5m
+Refer to
+standard
+Refer to
+standard
+as in QDC
+Min 0.5
+Min 5.4m*
+Min 1m
+Min 2m
+Min 5.4m*
+Min 2m
+Min 3m
+Less
+than 4.5m
+as in
+QDC
+Min 4.5m
+Refer to
+standard
+Refer to
+standard
+as in QDC
+Min 0.5
+N/A
+Min 1m
+Min 2m
+N/A
+Min 2m
+Min 3m
+4.5m to
+8.5m
+as in
+QDC
+Min 4.5m
+Refer to
+standard
+Refer to
+standard
+as in QDC
+Min 0.5
+N/A
+Min 2m
+Min 3m
+N/A
+Min 5m
+Min 6m
+Greater
+than
+8.5m
+as in
+QDC
+*Note - The minimum setback to covered car parking spaces may be reduced to 4.5m where:
+i.
+the primary or secondary frontage of the lot adjoins a road reserve with a minimum rear verge width of 1m or greater and includes a
+footpath with a width of 2m or greater;
+ii.
+the lot has a primary frontage greater than 7.5m and no greater than 10m (Lot type B).
+Table 9.3.1.6 Setbacks
+General residential zone - Urban neighbourhood precinct, and Emerging community zone - Transition precinct (developed lot) and
+identified in the Morayfield South urban area on Figure 9.3.1.1
+Trafficable
+water
+body To
+OMP and
+wall
+Rear To
+OMP and
+wall
+Side
+Non-built
+to
+boundary
+wall To
+OMP and
+wall
+Frontage
+Secondary
+to lane
+Frontage Secondary to street
+Frontage Primary
+Height of
+wall
+To OMP,
+wall and
+covered
+To
+covered
+car
+To OMP
+To wall
+To
+covered
+car
+To OMP
+To wall
+car
+parking
+spaces
+parking
+space and
+domestic
+outbuildings
+parking
+space and
+domestic
+outbuildings
+Min 4.5m
+Refer to
+standard
+as in QDC
+Refer to
+standard
+as in QDC
+Min 0.5
+Min 5.4m
+Min 1m
+Min 1m
+Min 5.4m
+Min 1m
+Min 1m
+Less
+than 4.5m
+Min 4.5m
+Refer to
+standard
+as in QDC
+Refer to
+standard
+as in QDC
+Min 0.5
+N/A
+Min 1m
+Min 1m
+N/A
+Min 1m
+Min 1m
+4.5 to
+8.5m
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4382
+9 Development codes
+Min 4.5m
+Refer to
+standard
+as in QDC
+Refer to
+standard
+as in QDC
+Min 0.5
+N/A
+Min 1m
+Min 2m
+N/A
+Min 3m
+Min 5m
+Greater
+than
+8.5m
+Table 9.3.1.7 Setbacks
+Caboolture West Local Plan - Urban living precinct - Next generation sub-precinct
+Trafficable
+water
+body To
+OMP and
+wall
+Rear to
+OMP and
+wall
+Side
+Non-built
+to
+boundary
+wall To
+OMP and
+wall
+Frontage
+Secondary
+to lane
+Frontage Secondary to street
+Frontage Primary
+Height of
+wall
+To OMP,
+wall and
+covered
+To
+covered
+car
+To OMP
+To wall
+To
+covered
+car
+To OMP
+To wall
+car
+parking
+space
+parking
+space
+and
+domestic
+outbuildings
+parking
+space
+and
+domestic
+outbuildings
+Min 4.5m
+For lots
+with a
+frontage
+Refer to
+standard
+as in QDC
+Min 0.5
+Min 5.4m*
+Min 1m
+Min 2m
+Min 5.4m*
+Min 2m
+Min 3m
+Less than
+4.5m
+<9.5m -
+Refer to
+standard
+as in
+QDC; or
+For lots
+with a
+frontage
+≥9.5m -
+Min 5m
+Min 4.5m
+For lots
+with a
+frontage
+Refer to
+standard
+as in QDC
+Min 0.5
+N/A
+Min 1m
+Min 2m
+N/A
+Min 2m
+Min 3m
+4.5m to
+8.5m
+<9.5m -
+Refer to
+standard
+as in
+QDC; or
+For lots
+with a
+frontage
+≥9.5m -
+Min 5m
+Min 4.5m
+For lots
+with a
+frontage
+Refer to
+standard
+as in QDC
+Min 0.5
+N/A
+Min 2m
+Min 3m
+N/A
+Min 5m
+Min 6m
+Greater
+than 8.5m
+<9.5m -
+Refer to
+standard
+as in
+QDC; or
+For lots
+with a
+frontage
+≥9.5m -
+Min 5m
+*Note - The minimum setback to covered car parking spaces may be reduced to 4.5m where:
+4383
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
+i.
+the primary or secondary frontage of the lot adjoins a road reserve with a minimum rear verge width of 1m or greater and includes a
+footpath with a width of 2m or greater;
+ii.
+the lot has a primary frontage greater than 7.5m and no greater than 10m (Lot type B).
+Table 9.3.1.8 Built to boundary walls
+Length and height of built to boundary wall
+Mandatory / Optional
+Lot frontage width
+Emerging community
+zone:
+Emerging community
+zone:
+General residential zone:
+Coastal communities
+precinct
+Transition
+precinct
+(Developed lot) if
+Transition precinct
+(Developed lot)
+Suburban
+neighbourhood
+precinct
+within the
+Morayfield South
+urban area on
+Figure 9.3.1.1
+General residential zone:
+Redcliffe Kippa-Ring local
+plan:
+Next generation
+neighbourhood
+precinct
+General residential zone:
+Interim residential
+precinct
+Caboolture West local
+plan:
+Urban
+neighbourhood
+precinct
+Urban living
+precinct (Next
+generation
+sub-precinct)
+Max Length: 80% of the
+length of the boundary
+Max Height: 8.5m
+Max Length: 80% of the
+length of the boundary
+Max Height: 7.5m
+Not permitted*
+Mandatory - both sides
+unless a corner lot
+7.5m or less
+Max Length: 70% of the
+length of the boundary
+Max Height: 10.5m
+Max Length: 60% of the
+length of the boundary OR
+80% if the lot adjoining that
+boundary has a frontage of
+7.5m or less.
+Max Height: 7.5m
+Not permitted*
+Mandatory - one side
+More than 7.5m to
+12.5m
+Max Length: the lesser of
+15m or 60% of the length
+of the boundary
+Max Height: 10.5m
+Max Length: the lesser of
+15m or 60% of the length of
+the boundary
+Max Height: 7.5m
+Not permitted*
+Optional:
+More than 12.5m to
+18m
+i.
+on 1 boundary
+only;
+ii.
+where the built
+to boundary wall
+adjoins a lot with
+a frontage less
+than 18m.
+Not permitted -
+Otherwise
+Not permitted*
+Not permitted*
+Not permitted*
+Not permitted*
+Greater than 18m
+Note -The above setbacks apply only to Class 1a and Class 10a buildings/structures.
+Note - Max Length includes the length of walls of any other buildings on the same boundary. e.g. detached garage, carport or shed.
+Note - For the maximum height of domestic outbuildings refer to the examples that achieve aspects of the performance outcomes for building
+height and domestic outbuildings.
+*Note - Built to boundary walls are not permitted, however, reduced side and rear boundary clearances may be permitted as prescribed (e.g.
+QDC).
+Effective 21 December 2021 Moreton Bay Regional Council Planning Scheme V6
+4384
+9 Development codes
+Figure 9.3.1.1 Morayfield South - Urban area
+4385
+Moreton Bay Regional Council Planning Scheme V6 Effective 21 December 2021
+9 Development codes
