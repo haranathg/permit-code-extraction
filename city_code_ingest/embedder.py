@@ -3,12 +3,13 @@
 from __future__ import annotations
 
 import json
+import os
 import random
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional
 
 
-EMBEDDING_DIM = 768
+EMBEDDING_DIM = 1536
 
 
 def generate_embeddings(
@@ -17,6 +18,7 @@ def generate_embeddings(
     *,
     pinecone_config: Optional[Dict[str, Any]] = None,
     extra_metadata: Optional[Dict[str, Any]] = None,
+    use_llm: bool = False,
 ) -> Path:
     """Produce mock Titan-style embeddings for each section."""
 
@@ -29,18 +31,16 @@ def generate_embeddings(
         payload = json.load(handle)
 
     embeddings: list[dict[str, Any]] = []
-    rng = random.Random(42)
-
     for title in payload.get("titles", []):
         for chapter in title.get("chapters", []):
             for section in chapter.get("sections", []):
-                vector = [rng.uniform(-1.0, 1.0) for _ in range(EMBEDDING_DIM)]
+                vector = _generate_vector(section, use_llm=use_llm)
                 embeddings.append(
                     {
                         "section_id": section.get("section_id"),
                         "title_number": title.get("title_number"),
                         "chapter_number": chapter.get("chapter_number"),
-                        "breadcrumb": section.get("breadcrumb", ""),
+                        "breadcrumb": section.get("breadcrumbs", section.get("breadcrumb", "")),
                         "section_title": section.get("section_title", ""),
                         "text": section.get("text", ""),
                         "embedding": vector,
@@ -124,8 +124,32 @@ def _persist_to_pinecone(
     try:
         upserted = store.upsert_embeddings(records, namespace=namespace)
         print(f"[embedder] Upserted {upserted} vectors to Pinecone index '{store.index_name}'")
-    except RuntimeError as exc:
+    except Exception as exc:  # pragma: no cover - network failure
         print(f"[embedder] Unable to persist embeddings to Pinecone: {exc}")
+
+
+def _generate_vector(section: Dict[str, Any], *, use_llm: bool) -> List[float]:
+    if use_llm:
+        try:  # pragma: no cover - network dependency
+            import openai
+
+            api_key = os.getenv("OPENAI_API_KEY")
+            if not api_key:
+                raise RuntimeError("OPENAI_API_KEY not set")
+
+            client = openai.OpenAI(api_key=api_key)
+            text = section.get("text") or section.get("section_title", "")
+            response = client.embeddings.create(
+                model="text-embedding-3-small",
+                input=text,
+            )
+            vector = response.data[0].embedding
+            return vector
+        except Exception as exc:  # pragma: no cover
+            print(f"[embedder] OpenAI embedding failed ({exc}); using fallback")
+
+    rng = random.Random(42 + hash(section.get("section_id")) % 1_000_000)
+    return [rng.uniform(-1.0, 1.0) for _ in range(EMBEDDING_DIM)]
 
 
 __all__ = ["generate_embeddings"]

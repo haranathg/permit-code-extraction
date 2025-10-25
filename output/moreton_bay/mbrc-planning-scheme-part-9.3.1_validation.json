@@ -1,0 +1,15 @@
+{
+  "issues": {
+    "missing_links": [],
+    "dangling_refs": [],
+    "span_conflicts": [],
+    "duplicate_ids": []
+  },
+  "counts": {
+    "rad": 55,
+    "po": 66,
+    "ead": 0,
+    "decision_points": 55
+  },
+  "status": "ok"
+}

@@ -1,21 +1,30 @@
-"""Local entry-point for the building code ingestion pipeline."""
+"""Local entry-point for the city code ingestion pipeline."""
 
 from __future__ import annotations
 
 import argparse
-import copy
 import json
 import os
-import re
 from pathlib import Path
-from typing import Any, Dict
+from typing import Any, Dict, List
 
-from city_code_ingest import builder, chunker, embedder, enricher, ingest
+from dotenv import load_dotenv
+
+from city_code_ingest import (
+    builder,
+    chunker,
+    embedder,
+    ingest,
+    mapper,
+    schema_extractor,
+    validator,
+)
 
 
 MODULE_ROOT = Path(__file__).resolve().parent
 OUTPUT_DIR = MODULE_ROOT / "output"
-INTERMEDIATE_DIR = OUTPUT_DIR / "intermediate"
+
+load_dotenv()
 
 
 def run_pipeline(
@@ -31,6 +40,7 @@ def run_pipeline(
     pinecone_environment: str | None = None,
     pinecone_namespace: str | None = None,
     pinecone_host: str | None = None,
+    use_llm: bool = False,
 ) -> Dict[str, Any]:
     source_path = Path(input_path)
     output_root = Path(output_dir) if output_dir else OUTPUT_DIR
@@ -39,31 +49,41 @@ def run_pipeline(
     output_root.mkdir(parents=True, exist_ok=True)
     intermediate_dir.mkdir(parents=True, exist_ok=True)
 
-    lines = ingest.extract_text(str(source_path))
+    document = ingest.extract_document(str(source_path))
+    lines: List[str] = document["lines"]  # type: ignore[assignment]
+    layout: Dict[str, object] = document["layout"]  # type: ignore[assignment]
+
     _write_lines(intermediate_dir / "raw_text.txt", lines)
+    _write_json(intermediate_dir / "layout.json", layout)
 
     sections = chunker.split_sections(lines)
     _write_json(intermediate_dir / "sections.json", sections)
 
-    enriched_sections = enricher.add_metadata(sections)
-    _write_json(intermediate_dir / "enriched_sections.json", enriched_sections)
+    catalog = schema_extractor.catalog_items(layout, use_llm=use_llm)
+    catalog_path = output_root / f"{source_path.stem}_catalog.json"
+    schema_extractor.save_catalog(catalog, catalog_path)
 
-    payload = builder.build_json(
-        enriched_sections,
+    decision_points = mapper.link_items(catalog, layout)
+    _write_json(intermediate_dir / "decision_points.json", decision_points)
+
+    wizard_payload, guidance_payload = builder.build_outputs(
+        decision_points,
+        sections=sections,
+        catalog=catalog,
         city=city,
         state=state,
         version=version,
         source_url=source_url,
     )
-    wizard_payload, guidance_payload = _split_payload(payload)
 
-    wizard_filename = f"{source_path.stem}_wizard.json"
-    wizard_path = output_root / wizard_filename
+    wizard_path = output_root / f"{source_path.stem}_wizard.json"
+    guidance_path = output_root / f"{source_path.stem}_guidance.json"
     _write_json(wizard_path, wizard_payload)
-
-    guidance_filename = f"{source_path.stem}_guidance.json"
-    guidance_path = output_root / guidance_filename
     _write_json(guidance_path, guidance_payload)
+
+    validation_report = validator.run_checks(wizard=wizard_payload, catalog=catalog)
+    validation_path = output_root / f"{source_path.stem}_validation.json"
+    validator.save_report(validation_report, validation_path)
 
     pinecone_config = _resolve_pinecone_config(
         api_key=pinecone_api_key,
@@ -78,19 +98,25 @@ def run_pipeline(
         wizard_path,
         output_root / embeddings_filename,
         pinecone_config=pinecone_config,
-        extra_metadata=payload.get("jurisdiction"),
+        extra_metadata=wizard_payload.get("jurisdiction"),
+        use_llm=use_llm,
     )
+
+    _log_summary(catalog, decision_points, validation_report)
 
     return {
         "wizard_path": wizard_path,
         "guidance_path": guidance_path,
+        "catalog_path": catalog_path,
+        "validation_path": validation_path,
         "embeddings_path": embeddings_path,
-        "payload": payload,
+        "catalog": catalog,
+        "decision_points": decision_points,
         "pinecone_enabled": bool(pinecone_config),
     }
 
 
-def _write_lines(path: Path, lines: list[str]) -> None:
+def _write_lines(path: Path, lines: List[str]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8") as handle:
         handle.write("\n".join(lines))
@@ -117,6 +143,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--pinecone-environment", default=None)
     parser.add_argument("--pinecone-namespace", default=None)
     parser.add_argument("--pinecone-host", default=None)
+    parser.add_argument("--use-llm", action="store_true", help="Enable LLM-backed extraction and embeddings")
     return parser.parse_args()
 
 
@@ -134,121 +161,8 @@ def main() -> None:
         pinecone_environment=args.pinecone_environment,
         pinecone_namespace=args.pinecone_namespace,
         pinecone_host=args.pinecone_host,
+        use_llm=args.use_llm,
     )
-
-
-def _generate_section_summary(title: str | None, text: str) -> str:
-    if not text:
-        return title or ""
-
-    normalized = " ".join(text.split())
-    if not normalized:
-        return title or ""
-
-    match = re.match(r"(.+?[.!?])(?:\s|$)", normalized)
-    if match:
-        summary = match.group(1)
-    else:
-        summary = normalized[:200]
-
-    if len(summary) > 200:
-        summary = summary[:197].rstrip() + "..."
-
-    return summary
-
-
-def _split_payload(payload: Dict[str, Any]) -> tuple[Dict[str, Any], Dict[str, Any]]:
-    wizard_payload = copy.deepcopy(payload)
-    guidance_entries: list[dict[str, Any]] = []
-
-    for title in wizard_payload.get("titles", []):
-        title_number = title.get("title_number")
-        title_name = title.get("title_name")
-        for chapter in title.get("chapters", []):
-            chapter_number = chapter.get("chapter_number")
-            chapter_name = chapter.get("chapter_name")
-            for section in chapter.get("sections", []):
-                section_id = section.get("section_id")
-                section_title = section.get("section_title")
-                breadcrumb = section.get("breadcrumb")
-                section_text = section.get("text", "")
-                section["text"] = _generate_section_summary(section_title, section_text)
-                guidance_entries.append(
-                    {
-                        "entry_type": "section",
-                        "section_id": section_id,
-                        "section_title": section_title,
-                        "title_number": title_number,
-                        "title_name": title_name,
-                        "chapter_number": chapter_number,
-                        "chapter_name": chapter_name,
-                        "breadcrumb": breadcrumb,
-                        "guidance": section_text.strip(),
-                    }
-                )
-                decision_points = section.get("decision_points", [])
-                for decision_point in decision_points:
-                    rad_text = (decision_point.get("rad_text") or "").strip()
-                    po_details_raw = decision_point.get("po_details") or []
-                    guidance_text = (decision_point.pop("guidance", "") or "").strip()
-
-                    cleaned_po_details = [
-                        {k: v for k, v in detail.items() if v}
-                        for detail in po_details_raw
-                        if detail.get("po_id") or (detail.get("text") and detail.get("text").strip())
-                    ]
-
-                    if cleaned_po_details:
-                        decision_point["po_details"] = cleaned_po_details
-                    elif "po_details" in decision_point:
-                        decision_point.pop("po_details", None)
-
-                    if rad_text:
-                        decision_point["rad_text"] = rad_text
-                    elif "rad_text" in decision_point:
-                        decision_point.pop("rad_text", None)
-
-                    if not guidance_text:
-                        parts: list[str] = []
-                        if rad_text:
-                            parts.append(rad_text)
-                        for detail in cleaned_po_details:
-                            po_id = detail.get("po_id")
-                            po_text = (detail.get("text") or "").strip()
-                            if not po_text:
-                                continue
-                            if po_id:
-                                parts.append(f"{po_id}: {po_text}")
-                            else:
-                                parts.append(po_text)
-                        guidance_text = "\n\n".join(parts).strip()
-
-                    if not (guidance_text or rad_text or cleaned_po_details):
-                        continue
-                    guidance_entries.append(
-                        {
-                            "entry_type": "decision_point",
-                            "question_id": decision_point.get("question_id"),
-                            "section_id": section_id,
-                            "section_title": section_title,
-                            "title_number": title_number,
-                            "title_name": title_name,
-                            "chapter_number": chapter_number,
-                            "chapter_name": chapter_name,
-                            "breadcrumb": breadcrumb,
-                            "po_references": decision_point.get("po_references", []),
-                            "guidance": guidance_text,
-                            "rad_text": rad_text,
-                            "po_details": cleaned_po_details,
-                        }
-                    )
-
-    guidance_payload: Dict[str, Any] = {
-        "jurisdiction": payload.get("jurisdiction", {}),
-        "guidance": guidance_entries,
-    }
-
-    return wizard_payload, guidance_payload
 
 
 def _resolve_pinecone_config(
@@ -279,6 +193,21 @@ def _resolve_pinecone_config(
     if host:
         config["host"] = host
     return config
+
+
+def _log_summary(
+    catalog: Dict[str, List[Dict[str, object]]],
+    decision_points: List[Dict[str, object]],
+    validation_report: Dict[str, object],
+) -> None:
+    rad_count = len(catalog.get("RAD", []))
+    po_count = len(catalog.get("PO", []))
+    ead_count = len(catalog.get("EAD", []))
+    print(
+        f"[main] Summary: RAD={rad_count}, PO={po_count}, EAD={ead_count}, decision_points={len(decision_points)}"
+    )
+    issue_counts = {k: len(v) for k, v in validation_report.get("issues", {}).items()}
+    print(f"[main] Validation issues: {issue_counts}")
 
 
 if __name__ == "__main__":
