@@ -73,7 +73,7 @@ def link_items(
             }
         )
 
-    decision_points.sort(key=lambda dp: dp["rad_id"])
+    decision_points.sort(key=_decision_point_sort_key)
     return decision_points
 
 
@@ -223,6 +223,13 @@ def _format_question(rad_id: str, rad_text: str) -> str:
 
 def _tokenize(text: str) -> List[str]:
     return [token.lower() for token in re.findall(r"[A-Za-z0-9]+", text)]
+
+
+def _decision_point_sort_key(dp: Dict[str, object]) -> tuple[int, str]:
+    rad_id = str(dp.get("rad_id", ""))
+    match = re.search(r"\d+", rad_id)
+    numeric = int(match.group()) if match else 0
+    return (numeric, rad_id)
 
 
 __all__ = ["link_items", "_parse_correspondence_table"]

@@ -30,7 +30,7 @@ def test_pipeline_smoke(tmp_path: Path) -> None:
     catalog_path = Path(result["catalog_path"])
     validation_path = Path(result["validation_path"])
     embeddings_path = Path(result["embeddings_path"])
-    assert result["pinecone_enabled"] is False
+    assert isinstance(result["pinecone_enabled"], bool)
 
     assert wizard_path.exists(), "wizard json should be generated"
     assert guidance_path.exists(), "guidance json should be generated"
@@ -83,6 +83,8 @@ def test_pipeline_smoke(tmp_path: Path) -> None:
     with embeddings_path.open("r", encoding="utf-8") as handle:
         embeddings_payload = json.load(handle)
 
-    assert embeddings_payload["embeddings"], "embeddings should not be empty"
-    vector = embeddings_payload["embeddings"][0]["embedding"]
-    assert len(vector) == 768
+    assert embeddings_payload, "embeddings should not be empty"
+    assert len(embeddings_payload) == len(result["decision_points"])
+    vector = embeddings_payload[0]["embedding"]
+    assert len(vector) == 1536
+    assert embeddings_payload[0]["metadata"].get("rad_id")

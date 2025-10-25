@@ -41,6 +41,7 @@ def run_pipeline(
     pinecone_namespace: str | None = None,
     pinecone_host: str | None = None,
     use_llm: bool = False,
+    embed_level: str = "decision_point",
 ) -> Dict[str, Any]:
     source_path = Path(input_path)
     output_root = Path(output_dir) if output_dir else OUTPUT_DIR
@@ -93,13 +94,15 @@ def run_pipeline(
         host=pinecone_host,
     )
 
-    embeddings_filename = f"{source_path.stem}_embeddings.json"
+    city_slug = wizard_payload.get("jurisdiction", {}).get("city", city).replace(" ", "")
+    embeddings_filename = f"{city_slug}_{version}_embeddings.json"
     embeddings_path = embedder.generate_embeddings(
         wizard_path,
         output_root / embeddings_filename,
         pinecone_config=pinecone_config,
         extra_metadata=wizard_payload.get("jurisdiction"),
         use_llm=use_llm,
+        embed_level=embed_level,
     )
 
     _log_summary(catalog, decision_points, validation_report)
@@ -144,6 +147,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--pinecone-namespace", default=None)
     parser.add_argument("--pinecone-host", default=None)
     parser.add_argument("--use-llm", action="store_true", help="Enable LLM-backed extraction and embeddings")
+    parser.add_argument(
+        "--embed-level",
+        choices=["decision_point", "section", "po"],
+        default="decision_point",
+        help="Granularity for embeddings",
+    )
     return parser.parse_args()
 
 
@@ -162,6 +171,7 @@ def main() -> None:
         pinecone_namespace=args.pinecone_namespace,
         pinecone_host=args.pinecone_host,
         use_llm=args.use_llm,
+        embed_level=args.embed_level,
     )
 
 

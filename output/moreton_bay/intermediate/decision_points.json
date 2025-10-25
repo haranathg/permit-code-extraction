@@ -31,6 +31,254 @@
     "no_po_applicable": false
   },
   {
+    "rad_id": "RAD2",
+    "rad_text": "RAD2",
+    "question": "Does the development comply with RAD2 (RAD2)?",
+    "po_links": [
+      "PO2"
+    ],
+    "po_details": [
+      {
+        "po_id": "PO2",
+        "text": "PO2",
+        "page": 1,
+        "span": [
+          8582,
+          8585
+        ]
+      }
+    ],
+    "ead_links": [],
+    "ead_details": [],
+    "source_refs": [
+      {
+        "page": 1,
+        "span": [
+          8586,
+          8590
+        ]
+      }
+    ],
+    "no_po_applicable": false
+  },
+  {
+    "rad_id": "RAD3",
+    "rad_text": "RAD3",
+    "question": "Does the development comply with RAD3 (RAD3)?",
+    "po_links": [
+      "PO3"
+    ],
+    "po_details": [
+      {
+        "po_id": "PO3",
+        "text": "PO3",
+        "page": 1,
+        "span": [
+          8591,
+          8594
+        ]
+      }
+    ],
+    "ead_links": [],
+    "ead_details": [],
+    "source_refs": [
+      {
+        "page": 1,
+        "span": [
+          8595,
+          8599
+        ]
+      }
+    ],
+    "no_po_applicable": false
+  },
+  {
+    "rad_id": "RAD4",
+    "rad_text": "RAD4",
+    "question": "Does the development comply with RAD4 (RAD4)?",
+    "po_links": [
+      "PO3"
+    ],
+    "po_details": [
+      {
+        "po_id": "PO3",
+        "text": "PO3",
+        "page": 1,
+        "span": [
+          8591,
+          8594
+        ]
+      }
+    ],
+    "ead_links": [],
+    "ead_details": [],
+    "source_refs": [
+      {
+        "page": 1,
+        "span": [
+          8604,
+          8608
+        ]
+      }
+    ],
+    "no_po_applicable": false
+  },
+  {
+    "rad_id": "RAD5",
+    "rad_text": "RAD5",
+    "question": "Does the development comply with RAD5 (RAD5)?",
+    "po_links": [
+      "PO4"
+    ],
+    "po_details": [
+      {
+        "po_id": "PO4",
+        "text": "PO4",
+        "page": 1,
+        "span": [
+          8609,
+          8612
+        ]
+      }
+    ],
+    "ead_links": [],
+    "ead_details": [],
+    "source_refs": [
+      {
+        "page": 1,
+        "span": [
+          8613,
+          8617
+        ]
+      }
+    ],
+    "no_po_applicable": false
+  },
+  {
+    "rad_id": "RAD6",
+    "rad_text": "RAD6",
+    "question": "Does the development comply with RAD6 (RAD6)?",
+    "po_links": [
+      "PO6"
+    ],
+    "po_details": [
+      {
+        "po_id": "PO6",
+        "text": "PO6",
+        "page": 1,
+        "span": [
+          8718,
+          8721
+        ]
+      }
+    ],
+    "ead_links": [],
+    "ead_details": [],
+    "source_refs": [
+      {
+        "page": 1,
+        "span": [
+          8722,
+          8726
+        ]
+      }
+    ],
+    "no_po_applicable": false
+  },
+  {
+    "rad_id": "RAD7",
+    "rad_text": "RAD7",
+    "question": "Does the development comply with RAD7 (RAD7)?",
+    "po_links": [
+      "PO7"
+    ],
+    "po_details": [
+      {
+        "po_id": "PO7",
+        "text": "PO7",
+        "page": 1,
+        "span": [
+          8727,
+          8730
+        ]
+      }
+    ],
+    "ead_links": [],
+    "ead_details": [],
+    "source_refs": [
+      {
+        "page": 1,
+        "span": [
+          8731,
+          8735
+        ]
+      }
+    ],
+    "no_po_applicable": false
+  },
+  {
+    "rad_id": "RAD8",
+    "rad_text": "RAD8",
+    "question": "Does the development comply with RAD8 (RAD8)?",
+    "po_links": [
+      "PO8"
+    ],
+    "po_details": [
+      {
+        "po_id": "PO8",
+        "text": "PO8",
+        "page": 1,
+        "span": [
+          8736,
+          8739
+        ]
+      }
+    ],
+    "ead_links": [],
+    "ead_details": [],
+    "source_refs": [
+      {
+        "page": 1,
+        "span": [
+          8740,
+          8744
+        ]
+      }
+    ],
+    "no_po_applicable": false
+  },
+  {
+    "rad_id": "RAD9",
+    "rad_text": "RAD9",
+    "question": "Does the development comply with RAD9 (RAD9)?",
+    "po_links": [
+      "PO8"
+    ],
+    "po_details": [
+      {
+        "po_id": "PO8",
+        "text": "PO8",
+        "page": 1,
+        "span": [
+          8736,
+          8739
+        ]
+      }
+    ],
+    "ead_links": [],
+    "ead_details": [],
+    "source_refs": [
+      {
+        "page": 1,
+        "span": [
+          8749,
+          8753
+        ]
+      }
+    ],
+    "no_po_applicable": false
+  },
+  {
     "rad_id": "RAD10",
     "rad_text": "RAD10",
     "question": "Does the development comply with RAD10 (RAD10)?",
@@ -355,37 +603,6 @@
         "span": [
           8870,
           8875
-        ]
-      }
-    ],
-    "no_po_applicable": false
-  },
-  {
-    "rad_id": "RAD2",
-    "rad_text": "RAD2",
-    "question": "Does the development comply with RAD2 (RAD2)?",
-    "po_links": [
-      "PO2"
-    ],
-    "po_details": [
-      {
-        "po_id": "PO2",
-        "text": "PO2",
-        "page": 1,
-        "span": [
-          8582,
-          8585
-        ]
-      }
-    ],
-    "ead_links": [],
-    "ead_details": [],
-    "source_refs": [
-      {
-        "page": 1,
-        "span": [
-          8586,
-          8590
         ]
       }
     ],
@@ -922,37 +1139,6 @@
     "no_po_applicable": false
   },
   {
-    "rad_id": "RAD3",
-    "rad_text": "RAD3",
-    "question": "Does the development comply with RAD3 (RAD3)?",
-    "po_links": [
-      "PO3"
-    ],
-    "po_details": [
-      {
-        "po_id": "PO3",
-        "text": "PO3",
-        "page": 1,
-        "span": [
-          8591,
-          8594
-        ]
-      }
-    ],
-    "ead_links": [],
-    "ead_details": [],
-    "source_refs": [
-      {
-        "page": 1,
-        "span": [
-          8595,
-          8599
-        ]
-      }
-    ],
-    "no_po_applicable": false
-  },
-  {
     "rad_id": "RAD30",
     "rad_text": "RAD30",
     "question": "Does the development comply with RAD30 (RAD30)?",
@@ -1333,37 +1519,6 @@
     "no_po_applicable": false
   },
   {
-    "rad_id": "RAD4",
-    "rad_text": "RAD4",
-    "question": "Does the development comply with RAD4 (RAD4)?",
-    "po_links": [
-      "PO3"
-    ],
-    "po_details": [
-      {
-        "po_id": "PO3",
-        "text": "PO3",
-        "page": 1,
-        "span": [
-          8591,
-          8594
-        ]
-      }
-    ],
-    "ead_links": [],
-    "ead_details": [],
-    "source_refs": [
-      {
-        "page": 1,
-        "span": [
-          8604,
-          8608
-        ]
-      }
-    ],
-    "no_po_applicable": false
-  },
-  {
     "rad_id": "RAD40",
     "rad_text": "RAD40",
     "question": "Does the development comply with RAD40 (RAD40)?",
@@ -1674,37 +1829,6 @@
     "no_po_applicable": false
   },
   {
-    "rad_id": "RAD5",
-    "rad_text": "RAD5",
-    "question": "Does the development comply with RAD5 (RAD5)?",
-    "po_links": [
-      "PO4"
-    ],
-    "po_details": [
-      {
-        "po_id": "PO4",
-        "text": "PO4",
-        "page": 1,
-        "span": [
-          8609,
-          8612
-        ]
-      }
-    ],
-    "ead_links": [],
-    "ead_details": [],
-    "source_refs": [
-      {
-        "page": 1,
-        "span": [
-          8613,
-          8617
-        ]
-      }
-    ],
-    "no_po_applicable": false
-  },
-  {
     "rad_id": "RAD50",
     "rad_text": "RAD50",
     "question": "Does the development comply with RAD50 (RAD50)?",
@@ -1885,130 +2009,6 @@
         "span": [
           9397,
           9402
-        ]
-      }
-    ],
-    "no_po_applicable": false
-  },
-  {
-    "rad_id": "RAD6",
-    "rad_text": "RAD6",
-    "question": "Does the development comply with RAD6 (RAD6)?",
-    "po_links": [
-      "PO6"
-    ],
-    "po_details": [
-      {
-        "po_id": "PO6",
-        "text": "PO6",
-        "page": 1,
-        "span": [
-          8718,
-          8721
-        ]
-      }
-    ],
-    "ead_links": [],
-    "ead_details": [],
-    "source_refs": [
-      {
-        "page": 1,
-        "span": [
-          8722,
-          8726
-        ]
-      }
-    ],
-    "no_po_applicable": false
-  },
-  {
-    "rad_id": "RAD7",
-    "rad_text": "RAD7",
-    "question": "Does the development comply with RAD7 (RAD7)?",
-    "po_links": [
-      "PO7"
-    ],
-    "po_details": [
-      {
-        "po_id": "PO7",
-        "text": "PO7",
-        "page": 1,
-        "span": [
-          8727,
-          8730
-        ]
-      }
-    ],
-    "ead_links": [],
-    "ead_details": [],
-    "source_refs": [
-      {
-        "page": 1,
-        "span": [
-          8731,
-          8735
-        ]
-      }
-    ],
-    "no_po_applicable": false
-  },
-  {
-    "rad_id": "RAD8",
-    "rad_text": "RAD8",
-    "question": "Does the development comply with RAD8 (RAD8)?",
-    "po_links": [
-      "PO8"
-    ],
-    "po_details": [
-      {
-        "po_id": "PO8",
-        "text": "PO8",
-        "page": 1,
-        "span": [
-          8736,
-          8739
-        ]
-      }
-    ],
-    "ead_links": [],
-    "ead_details": [],
-    "source_refs": [
-      {
-        "page": 1,
-        "span": [
-          8740,
-          8744
-        ]
-      }
-    ],
-    "no_po_applicable": false
-  },
-  {
-    "rad_id": "RAD9",
-    "rad_text": "RAD9",
-    "question": "Does the development comply with RAD9 (RAD9)?",
-    "po_links": [
-      "PO8"
-    ],
-    "po_details": [
-      {
-        "po_id": "PO8",
-        "text": "PO8",
-        "page": 1,
-        "span": [
-          8736,
-          8739
-        ]
-      }
-    ],
-    "ead_links": [],
-    "ead_details": [],
-    "source_refs": [
-      {
-        "page": 1,
-        "span": [
-          8749,
-          8753
         ]
       }
     ],
